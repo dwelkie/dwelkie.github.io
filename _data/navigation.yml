@@ -21,25 +21,33 @@ main:
     
 # Sidebar
 my-sidebar:
-  - title: "About"
+  - title: "Projects"
+    children:
+      - title: "Genome-scale Modeling"
+        url: /gem/
+      - title: "Circadian clock control of metabolism in cyanobacteria"
+        url: /kaia/
+      - title: "IRB-Seq"
+        url: /irb-seq/
+      - title: "Microbial population dynamics during disturbance"
+        url: /irb-seq/        
+  - title: "CV"
     children:
       - title: "Publications"
-        url: /Publications/
+        url: /irb-seq/
+      - title: "Presentations"
+        url: /irb-seq/     
       - title: "Education"
-        url: /Education/
+        url: /irb-seq/
+   - title: "Other"
+    children:
+      - title: "Binder deployments"
+        url: /irb-seq/
+      - title: "Shiny Apps"
+        url: /irb-seq/
       - title: "Hobbies"
-        url: /Education/
-  - title: "Research"
-    children:
-      - title: "Microbial Community Dynamics"
-      - title: "Cyanobacterial Physiology"
-      - title: "Modeling and Engineering Phototrophic Metabolism"
-      - title: "Circadian Timing and Microbial Fitness"
-  - title: "Professional Development"
-    children:
-      - title: "Computer Programming Courses"
-      - title: "Leadership, Management, and Business"
-        url: /ucsdextension/
+
+
 
         
 # TITLE/URL EXAMPLE
