@@ -1,14 +1,13 @@
 ---
-layout: default
 permalink: /
 read_time: false
 comments: false
 share: false
+classes: wide
+author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
-classes: wide
-
 ---
 
 Test text here
