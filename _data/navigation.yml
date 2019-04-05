@@ -1,0 +1,57 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /Research/
+  - title: "Links"
+    sublinks:
+      - title: Whats new? - blog
+        url: /Blog/
+      - title: Center for Circadian Biology
+        url: http://ccb.ucsd.edu/
+      - title: Golden Lab
+        url: https://goldenucsd.wixsite.com/mysite
+      - title: Systems Biology Research Group
+        url: http://systemsbiology.ucsd.edu/
+      - title: Shiny app for S7942 LD Data
+        url: https://dwelkie.shinyapps.io/S7942_LDC_RbTnSeq_Data_App/
+  - title: "Contact" 
+    url: /Contact/
+    
+# Sidebar
+my-sidebar:
+  - title: "About"
+    children:
+      - title: "Publications"
+        url: /Publications/
+      - title: "Education"
+        url: /Education/
+      - title: "Hobbies"
+        url: /Education/
+  - title: "Research"
+    children:
+      - title: "Microbial Community Dynamics"
+      - title: "Cyanobacterial Physiology"
+      - title: "Modeling and Engineering Phototrophic Metabolism"
+      - title: "Circadian Timing and Microbial Fitness"
+  - title: "Professional Development"
+    children:
+      - title: "Computer Programming Courses"
+      - title: "Leadership, Management, and Business"
+        url: /ucsdextension/
+
+        
+# TITLE/URL EXAMPLE
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #
+  # DROP DOWN BUTTON EXAMPLE
+  # - title: Support
+  #   sublinks:
+  #     - title: FAQ
+  #       url: /faq/
+  #     - title: Documentation
+  #       url: /Documentation/
+  #     - title: Customer Support
+  #       url: /Support/
