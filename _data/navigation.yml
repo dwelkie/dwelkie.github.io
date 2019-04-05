@@ -24,29 +24,29 @@ my-sidebar:
   - title: "Projects"
     children:
       - title: "Genome-scale Modeling"
-        url: /gem/
+        url: http://ccb.ucsd.edu/
       - title: "Circadian clock control of metabolism in cyanobacteria"
-        url: /kaia/
+        url: http://ccb.ucsd.edu/
       - title: "IRB-Seq"
-        url: /irb-seq/
+        url: http://ccb.ucsd.edu/
       - title: "Microbial population dynamics during disturbance"
-        url: /irb-seq/        
+        url: http://ccb.ucsd.edu/      
   - title: "CV"
     children:
       - title: "Publications"
-        url: /irb-seq/
+        url: http://ccb.ucsd.edu/
       - title: "Presentations"
-        url: /irb-seq/     
+        url: http://ccb.ucsd.edu/    
       - title: "Education"
-        url: /irb-seq/
+        url: http://ccb.ucsd.edu/
    - title: "Other"
     children:
       - title: "Binder deployments"
-        url: /irb-seq/
+        url: http://ccb.ucsd.edu/
       - title: "Shiny Apps"
-        url: /irb-seq/
+        url: http://ccb.ucsd.edu/
       - title: "Hobbies"
-
+        url: http://ccb.ucsd.edu/
 
 
         
