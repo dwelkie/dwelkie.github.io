@@ -7,7 +7,7 @@ classes: wide
 author_profile: false
 sidebar:
   title: "Sample Title"
-  nav: sidebar-sample
+  nav: my-sidebar
 ---
 
 Test text here
