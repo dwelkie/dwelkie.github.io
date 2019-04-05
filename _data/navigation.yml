@@ -19,35 +19,48 @@ main:
   - title: "Contact" 
     url: /contact/
     
-# Sidebar
-mysidebar:
-- title: "Projects"
-  children:
-      - title: "Genome-scale Modeling"
-        url: http://ccb.ucsd.edu/
-      - title: "Circadian clock control of metabolism in cyanobacteria"
-        url: http://ccb.ucsd.edu/
-      - title: "IRB-Seq"
-        url: http://ccb.ucsd.edu/
-      - title: "Microbial population dynamics during disturbance"
-        url: http://ccb.ucsd.edu/      
-  - title: "CV"
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
     children:
-      - title: "Publications"
-        url: http://ccb.ucsd.edu/
-      - title: "Presentations"
-        url: http://ccb.ucsd.edu/    
-      - title: "Education"
-        url: http://ccb.ucsd.edu/
-   - title: "Other"
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
     children:
-      - title: "Binder deployments"
-        url: http://ccb.ucsd.edu/
-      - title: "Shiny Apps"
-        url: http://ccb.ucsd.edu/
-      - title: "Hobbies"
-        url: http://ccb.ucsd.edu/
-
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
 
         
 # TITLE/URL EXAMPLE
