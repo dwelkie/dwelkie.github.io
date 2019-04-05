@@ -22,7 +22,7 @@ main:
 # Sidebar
 mysidebar:
 - title: "Projects"
-    children:
+  children:
       - title: "Genome-scale Modeling"
         url: http://ccb.ucsd.edu/
       - title: "Circadian clock control of metabolism in cyanobacteria"
