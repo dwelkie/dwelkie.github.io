@@ -20,7 +20,7 @@ main:
     url: /contact/
     
 # Sidebar
-my-sidebar:
+mysidebar:
   - title: "Projects"
     children:
       - title: "Genome-scale Modeling"
