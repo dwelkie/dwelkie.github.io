@@ -21,7 +21,7 @@ main:
     
 # Sidebar
 mysidebar:
-  - title: "Projects"
+- title: "Projects"
     children:
       - title: "Genome-scale Modeling"
         url: http://ccb.ucsd.edu/
