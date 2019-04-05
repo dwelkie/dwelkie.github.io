@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /Research/
-  - title: "Links"
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Other"
     sublinks:
       - title: Whats new? - blog
         url: /Blog/
@@ -17,7 +17,7 @@ main:
       - title: Shiny app for S7942 LD Data
         url: https://dwelkie.shinyapps.io/S7942_LDC_RbTnSeq_Data_App/
   - title: "Contact" 
-    url: /Contact/
+    url: /contact/
     
 # Sidebar
 my-sidebar:
