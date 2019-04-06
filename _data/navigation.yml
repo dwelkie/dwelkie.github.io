@@ -21,33 +21,32 @@ main:
     
 # sidebar navigation list sample
 sidebar-sample:
-  - title: "Parent Page A"
+  - title: "Projects"
     children:
-      - title: "Child Page A1"
+      - title: "SMetabolic engineering for chemical production in industrial mircobes"
         url: /
-      - title: "Child Page A2"
+      - title: "Genome-scale modeling"
         url: /
-      - title: "Child Page A3"
+      - title: "Circadian clock influence on metabolism"
         url: /
-      - title: "Child Page A4"
+      - title: "IRB-Seq"
         url: /
-  - title: "Parent Page B"
+      - title: "Cyanobacterial physiology in LD cycles"
+        url: /        
+      - title: "Microbial population dynamics"
+        url: /
+  - title: "CV"
     children:
-      - title: "Child Page B1"
+      - title: "Publications"
         url: /
-      - title: "Child Page B2"
+      - title: "Presentations"
         url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
+      - title: "Education"
+  - title: "Other"
     children:
-      - title: "Child Page C1"
+      - title: "Shiny App"
         url: /
-      - title: "Child Page C2"
+      - title: "Binder Deployments"
         url: /
       - title: "Child Page C3"
         url: /
