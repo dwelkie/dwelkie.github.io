@@ -3,7 +3,7 @@ title: "CV"
 header:
   overlay_image: /assets/images/jessica-ruscello-196422-unsplash-2.jpg
   overlay_filter: 0.2
-permalink: /CV/
+permalink: /cv/
 read_time: false
 comments: false
 share: false
