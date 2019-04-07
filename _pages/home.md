@@ -15,45 +15,46 @@ header:
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
-feature_row1:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/CV/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/CV/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+feature_row:
+ 
 feature_row2:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/CV/"
+  - image_path: /assets/images/lpods_photo.png
+    alt: "Sampling lakes in northern WI"
+    title: "Sampling lakes in northern WI"
+    excerpt: 'An integrated approach to develop unicellular cyanobacteria for biofuel production” described how to improve the physiological characteristics of the nitrogen fixing cyanobacterium Cyanothece sp. PC 7822, where I enhanced growth and culture population homogeneity was through nutrient adjustment, I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes, and I created mutant strains of Synechocystis sp. PCC 6803 that had modified carbohydrate metabolism to study the genetic rationale for the variation of stored carbohydrate granule morphologies across species. Lastly, participated in a project to engineer Synechocystis to produce the C5 compound, isoprene, and validated computational model predictions to optimize productivity.'
+    url: "/Contact"
+    btn_label: "Read More"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/CV/"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
-{% include feature_row1 %}
 
 
-## HTML Elements
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-{% include feature_row2 %}
-## Body text
+### The start
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
