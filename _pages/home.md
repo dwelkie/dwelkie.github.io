@@ -15,8 +15,7 @@ header:
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
-toc: true
-toc_sticky: true
+
 ---
 
 ## HTML Elements
