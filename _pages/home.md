@@ -15,13 +15,45 @@ header:
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
-
+feature_row1:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row2:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
+{% include feature_row1 %}
+
 
 ## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
+{% include feature_row2 %}
 ## Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
