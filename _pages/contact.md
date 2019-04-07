@@ -1,8 +1,6 @@
 ---
 title: "Contact me"
 permalink: /contact/
-header:
-  overlay_image: /assets/images/seal-contactme.jpg
 read_time: false
 comments: false
 share: false
