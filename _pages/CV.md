@@ -1,12 +1,11 @@
 ---
+layout: splash
 title: "CV"
-header:
-  overlay_image: /assets/images/jessica-ruscello-196422-unsplash-2.jpg
-  overlay_filter: 0.2
 permalink: /cv/
 read_time: false
 comments: false
 share: false
+
 ---
 Publications, along with citations, can be also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 
