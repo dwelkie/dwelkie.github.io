@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/home/"
+      url: "/CV/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
@@ -20,14 +20,14 @@ feature_row1:
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/home/"
+    url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/home/"
+    url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
@@ -35,14 +35,14 @@ feature_row2:
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/home/"
+    url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/home/"
+    url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
