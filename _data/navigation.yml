@@ -9,7 +9,7 @@ main:
       - title: Whats new? - blog
         url: /Blog/
       - title: Center for Circadian Biology
-        url: /[Link to Header](/home.md#the-header)
+        url: /home.md#the-header)
       - title: Golden Lab
         url: https://goldenucsd.wixsite.com/mysite
       - title: Systems Biology Research Group
