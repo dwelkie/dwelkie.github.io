@@ -14,11 +14,11 @@ classes: wide
 author_profile: false
 
 ---
-UC San Diego
+# UC San Diego
 
-Engineering Industrial Strains for Diacid Production
+### Engineering Industrial Strains for Diacid Production
 
-Genome-Scale Modeling
+### Genome-Scale Modeling
 
 <br/> 
 Links to article: Pubmed{:target="_blank"} 
@@ -26,19 +26,19 @@ Links to article: Pubmed{:target="_blank"}
 <br/> 
 Links to article: Pubmed{:target="_blank"}
 
-KaiA and Circadian Clock Regulation
+### KaiA and Circadian Clock Regulation
 
 For my postdoctoral career contributions, I want to focus on studying the relationship between the circadian clock in the model cyanobacterium Synechococcus elongatus sp. PCC 7942 and the regulation of metabolic processes, especially those important for diurnal growth.
 
-Genetic Fitness and Interaction Screens
+### Genetic Fitness and Interaction Screens
 
 
 
 
 
-Purdue
+# Purdue
 
-Modifying Carbohydrate Storage and Strain Physiology
+### Modifying Carbohydrate Storage and Strain Physiology
 
  My graduate career contributions focused on genetics and physiology of cyanobacteria for industrial applications. My dissertation titles “An integrated approach to develop unicellular cyanobacteria for biofuel production” described how to improve the physiological characteristics of the nitrogen fixing cyanobacterium Cyanothece sp. PC 7822, where I enhanced growth and culture population homogeneity was through nutrient adjustment. <br/> 
 Links to article: Pubmed{:target="_blank"}
@@ -46,18 +46,18 @@ Links to article: Pubmed{:target="_blank"}
 I created mutant strains of Synechocystis sp. PCC 6803 that had modified carbohydrate metabolism to study the genetic rationale for the variation of stored carbohydrate granule morphologies across species.<br/> 
 Links to article: Pubmed{:target="_blank"}
 
-Photosynthetic Isoprene Biosynthesis
+### Photosynthetic Isoprene Biosynthesis
 
 Lastly, participated in a project to engineer Synechocystis to produce the C5 compound, isoprene, and validated computational model predictions to optimize productivity.
 
-Gene Expression in Light-Dark Cycles
+### Gene Expression in Light-Dark Cycles
 
 I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes. <br/> 
 Links to article: Pubmed{:target="_blank"}
 
-UW-Madison
+# UW-Madison
 
-Microbial Community Dynamics to Environmental Disturbance
+### Microbial Community Dynamics to Environmental Disturbance
 
 Microbial communities in different environments using 16S rRNA. I began my research experience under the supervision of Dr. Paul Weimer at the USDA Forage Research Center at the University of Wisconsin Madison were I used my knowledge of molecular biology and microbiology to study microbial community dynamics in dairy cows across feeding cycles. <br/> 
 Links to article: Pubmed{:target="_blank"}
