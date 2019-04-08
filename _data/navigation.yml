@@ -3,7 +3,6 @@ main:
   - title: "Projects"
     sublinks:
       - title: Publications
-        url: /cv/#publications
         sublinks:
           - title: Publications
             url: /cv/#publications
