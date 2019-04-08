@@ -7,7 +7,7 @@ share: false
 classes: wide
 author_profile: false
 header:
-  image: /assets/images/mm-home-page-feature-300h.jpg
+  image: /assets/images/mm-home-page-feature-150h.jpg
 
 feature_row:
  
