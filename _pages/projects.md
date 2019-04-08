@@ -5,8 +5,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plates.jpg
   overlay_filter: 0.15
-
 toc: true
+toc_sticky: true
 ---
 
 ## UC San Diego
