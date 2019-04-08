@@ -5,9 +5,9 @@ main:
   - title: "CV"
     sublinks:
       - title: Publications
-        url: /cv/#the-header1
+        url: /cv/#publications
       - title: Presentations
-        url: /#the-header2
+        url: /cv/#presentations
   - title: "Other"
     sublinks:
       - title: Whats new? - blog
