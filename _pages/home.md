@@ -16,8 +16,8 @@ I am a post-doctoral researcher at the Center for Circadian Biology at the Unive
 Besides my research, I enjoy running half marathons and going to major leage baseball games whenever I can.
 
 **Recent news:** 
-
 {: .notice--info}
+
 <div class="grid__wrapper">
   {% for post in site.posts limit:4 %}
     {% include archive-single.html type="grid" %}
