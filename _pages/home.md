@@ -10,29 +10,10 @@ header:
   image: /assets/images/ocean-header1.jpg
 
 ---
-<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
+I am working as a post-doctoral researcher at the Center for Circadian Biology at the University of California San Diego. I mainly focus on imporving out understanding of bacterial metabolism using molecular biology techniques and genome-scale modeling. I recieved my PhD from Biological Sciences Department at Purdue university. 
+
+Besides my research, I enjoy running half marathons and going to major leage baseball games whenever I can.
+
+<div style="float:right;width:1000;height:400">
+<a class="twitter-timeline tw-align-right" data-width="300" data-height="300" href="https://twitter.com/DavidWelkie?ref_src=twsrc%5Etfw">Tweets by DavidWelkie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
