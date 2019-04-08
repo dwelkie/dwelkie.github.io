@@ -1,7 +1,12 @@
 # main links /cv/
 main:
   - title: "Projects"
-    url: /projects/
+    sublinks:
+      - title: Publications
+        url: /cv/#publications
+        sublinks:
+          - title: Publications
+            url: /cv/#publications
   - title: "CV"
     sublinks:
       - title: Publications
