@@ -1,9 +1,13 @@
-# main links
+# main links /cv/
 main:
   - title: "Projects"
     url: /projects/
   - title: "CV"
-    url: /cv/
+    sublinks:
+      - title: Publications
+        url: /cv/#the-header1
+      - title: Presentations
+        url: /#the-header2
   - title: "Other"
     sublinks:
       - title: Whats new? - blog
