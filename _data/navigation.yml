@@ -21,7 +21,7 @@ main:
   - title: "CV"
     sublinks:
       - title: Publications
-        url: /cv/#publications
+        url: /cv/
       - title: Presentations
         url: /cv/#presentations
   - title: "Other"
