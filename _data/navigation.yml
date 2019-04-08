@@ -3,17 +3,17 @@ main:
   - title: "Projects"
     sublinks:
       - title: Engineering Industrial Strains for Diacid Production
-        url: /cv/#publications
+        url: /projects/
       - title: Genome-Scale Modeling
-        url: /cv/#publications        
+        url: /projects/#genome-scale-modeling        
       - title: KaiA and Circadian Clock Regulation
-        url: /cv/#publications
+        url: /projects/#kaia-and-circadian-clock-regulation
       - title: Genetic Fitness and Interaction Screens
-        url: /cv/#publications  
+        url: /projects/#publications  
       - title: Modifying Carbohydrate Metabolism
-        url: /cv/#publications        
+        url: /projects/#publications        
       - title: Photosynthetic Isoprene Biosynthesis
-        url: /cv/#publications
+        url: /projects/#publications
       - title: Gene Expression in Light-Dark Cycles
         url: /cv/#publications          
       - title: Microbial Community Dynamics to Environmental Disturbance
