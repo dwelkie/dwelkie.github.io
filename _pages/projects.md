@@ -5,15 +5,13 @@ header:
   overlay_image: /assets/images/plates.jpg
   overlay_filter: 0.15
 permalink: /projects/ 
-read_time: false
-comments: false
-share: false
 toc: true
 toc_label: "Projects"
 toc_icon_ "columns"
-toc_sticky: true
 author_profile: false
+
 ---
+
 ## UC San Diego
 
 ### Engineering Industrial Strains for Diacid Production
