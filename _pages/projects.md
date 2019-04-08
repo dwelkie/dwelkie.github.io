@@ -9,11 +9,12 @@ read_time: false
 comments: false
 share: false
 toc: true
+toc_label: "Projects"
+toc_icon_ "columns"
 toc_sticky: true
 author_profile: false
-
 ---
-# UC San Diego
+## UC San Diego
 
 ### Engineering Industrial Strains for Diacid Production
 
@@ -31,11 +32,7 @@ For my postdoctoral career contributions, I want to focus on studying the relati
 
 ### Genetic Fitness and Interaction Screens
 
-
-
-
-
-# Purdue
+## Purdue
 
 ### Modifying Carbohydrate Storage and Strain Physiology
 
@@ -54,7 +51,7 @@ Lastly, participated in a project to engineer Synechocystis to produce the C5 co
 I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes. <br/> 
 Links to article: Pubmed{:target="_blank"}
 
-# UW-Madison
+## UW-Madison
 
 ### Microbial Community Dynamics to Environmental Disturbance
 
