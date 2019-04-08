@@ -14,6 +14,6 @@ I am working as a post-doctoral researcher at the Center for Circadian Biology a
 
 Besides my research, I enjoy running half marathons and going to major leage baseball games whenever I can.
 
-<div style="float:right;width:1000;height:400">
-<a class="twitter-timeline tw-align-left" data-width="1000" data-height="400" href="https://twitter.com/DavidWelkie?ref_src=twsrc%5Etfw">Tweets by DavidWelkie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="float:left;width:1000;height:400">
+<a class="twitter-timeline tw-align-left" data-width="1600" data-height="200" href="https://twitter.com/DavidWelkie?ref_src=twsrc%5Etfw">Tweets by DavidWelkie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
