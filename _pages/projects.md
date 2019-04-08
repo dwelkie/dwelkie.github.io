@@ -1,15 +1,12 @@
 ---
+permalink: /projects/ 
 title: "Projects"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plates.jpg
   overlay_filter: 0.15
-permalink: /projects/ 
-toc: true
-toc_label: "Projects"
-toc_icon_ "columns"
-author_profile: false
 
+toc: true
 ---
 
 ## UC San Diego
