@@ -7,7 +7,7 @@ comments: false
 share: false
 
 ---
-## The Header1
+# Publications
 Publications, along with citations, can be also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 
 ## Review Articles
@@ -47,7 +47,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19615457){:target
 If you have trouble accessing nay of the above linked files, [contact me](/Contact).
 {: .notice--success}
 
-## The Header2
+# Presentations
 ## Conferance Presentations
 
 * **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 
