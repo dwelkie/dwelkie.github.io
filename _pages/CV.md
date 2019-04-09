@@ -58,7 +58,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 ## UCSD
 * **Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1Tjz-dU8d6TEGqH61Dzez6PnUo0GYBqW-" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
 
-* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" > <i class="far fa-file-pdf"></i> PDF of schedule. 
+* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" > <i class="far fa-file-pdf"></i> view the schedule. 
 
 * **Welkie DG**, Rubin BE, Golden SS. “Fitness contributions of the cyanobacterial circadian clock on diurnal physiology.” Oral Presentation at the California Center for Algae Biotechnology, University of California, San Diego, CA.	[Web Link](https://algae.ucsd.edu/events/seminar-series.html#2015---2016)
 
@@ -67,20 +67,20 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 * Rubin BE, Wetmore KM, Price MN, Diamond S, Shultzaberger RK, **Welkie DG**, Lowe LC, Curtin G, Arkin AP, Deutschbauer A, Golden SS. “The essential gene set for cyanobacteria” Poster, 12th Workshop on Cyanobacteria Arizona State University, Tempe, AZ. 2016
 
 * **Welkie DG**, Rubin BE, Golden SS. “Deletion of the circadian clock protein KaiA in Synechococcus elongatus PCC 7942 results in impaired diurnal growth” Poster, 12th Workshop on Cyanobacteria Arizona State University, Tempe, AZ.	2016
-<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1C2PTAJhY62Z31IVHHs9zZiyVoAsScWBp" target="_blank" > <i class="far fa-file-pdf"></i> PDF of poster.
+<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1C2PTAJhY62Z31IVHHs9zZiyVoAsScWBp" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
 
 ## Purdue
-* **Welkie DG** and Sherman L. “Modifying carbon storage in cyanobacteria: from glycogen to starch” Oral presentation at the 9th European Workshop on the Molecular Biology of Cyanobacteria, Texel, The Netherlands.	2014 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=17e7GH5hptF5-wvqySWBUq075XF71AzJY" target="_blank" > <i class="far fa-file-pdf"></i> PDF of Program.
+* **Welkie DG** and Sherman L. “Modifying carbon storage in cyanobacteria: from glycogen to starch” Oral presentation at the 9th European Workshop on the Molecular Biology of Cyanobacteria, Texel, The Netherlands.	2014 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=17e7GH5hptF5-wvqySWBUq075XF71AzJY" target="_blank" > <i class="far fa-file-pdf"></i> view the program.
 
-* **Welkie DG**, and Sherman L. “The impact of media adjustments on growth and analysis of carbohydrate storage granules in the diazotrophic cyanobacterium Cyanothece sp. PCC 7822” Oral presentation at the 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO.	2013
+* **Welkie DG**, and Sherman L. “The impact of media adjustments on growth and analysis of carbohydrate storage granules in the diazotrophic cyanobacterium Cyanothece sp. PCC 7822” Oral presentation at the 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO.	2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1vrnWbfXjp0-nOJq9ZO14hnjKCSRdstL6" target="_blank" > <i class="far fa-file-pdf"></i> view the program.
 
-* **Welkie DG**, and Sherman, L. “A dual approach to better understanding Cyanothece 7822 using growth media modifications and transcriptomics to generate a more desirable chassis for bioproduction”. Poster, Indiana Branch of the ASM Annual Meeting, Spencer, IN. 1st Place Prize – Ph.D. Graduate Student Section. 	2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1D9f807gYE1k0zlTQUI3FbIHy2FZPDvjR" target="_blank" > <i class="far fa-file-pdf"></i> PDF of poster.
+* **Welkie DG**, Saha R, Zhang X, Maranas CD, and Sherman LA. “Optimizing isoprene production in Synechocystis 6803 utilizing computational modeling and transcriptional regulation”. Poster 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO. 2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1-zaVjOPzuPZxNSSGlnsWKzLhuLacNZ-0" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
 
-* **Welkie DG**, Saha R, Zhang X, Maranas CD, and Sherman LA. “Optimizing isoprene production in Synechocystis 6803 utilizing computational modeling and transcriptional regulation”. Poster 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO. 2013
+* **Welkie DG**, and Sherman, L. “A dual approach to better understanding Cyanothece 7822 using growth media modifications and transcriptomics to generate a more desirable chassis for bioproduction”. Poster, Indiana Branch of the ASM Annual Meeting, Spencer, IN. 1st Place Prize – Ph.D. Graduate Student Section. 	2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1D9f807gYE1k0zlTQUI3FbIHy2FZPDvjR" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
 
 * **Welkie DG**, Zhang X, Sherman LA. “Metabolic and regulatory properties of the diazotrophic cyanobacterial genus Cyanothece”, Abstracts of Papers 245th ACS National Meeting and Exposition, New Orleans, LA.	2013
 
 * Minocha U, **Welkie D**, McCarthy MJ, Bettasso A, Wickham G, Thompson D, Bhunia, A, Turco, R, and Applegate B. “Use of TRFLP and light scattering to characterize plant and bulk soil, rhizosphere and phyllosphere samples from different farms”. Poster presentation at the ASM General Meeting, San Diego, CA.	2010
 
-If you would like a pdf of any of the posters, [contact me!](/Contact).
+If you would like more info of a talk or poster, [contact me!](/Contact).
 {: .notice--success}
