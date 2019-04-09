@@ -29,6 +29,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target
 
 * Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
+[](#PURDUE)
 * **Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target="_blank"}, [DOI](https://doi.org/10.1128/JB.00830-15){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1QE9B8kivtV29aVOk0OXDP0jNN2_bJV_Q" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
