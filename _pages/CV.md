@@ -11,7 +11,7 @@ toc_sticky: true
 toc_label: "Quick scroll"
 sidebar:
   - title: "DG Welkie"
-    image: "assets/images/dw-shades350x350.jpg"
+    image: "assets/images/dw-shades125x125.jpg"
     image_alt: "image"
 ---
 # Publications
