@@ -51,14 +51,9 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 * **Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018
 
-* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or 
+* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" >
+  
 
-[caterpillar](https://dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf)
-
-<a href="dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf" target="_blank">PDF.</a>
-<a href="https://dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf" target="_blank">PDF.</a>
-
-<embed src="https://dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf" type="application/pdf" />
 
 * **Welkie DG**, Rubin BE, Golden SS. “Fitness contributions of the cyanobacterial circadian clock on diurnal physiology.” Oral Presentation at the California Center for Algae Biotechnology, University of California, San Diego, CA.	[Web Link](https://algae.ucsd.edu/events/seminar-series.html#2015---2016)
 
