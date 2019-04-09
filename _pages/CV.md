@@ -1,4 +1,5 @@
 ---
+title: "CV"
 layout: single
 permalink: /cv/
 read_time: false
