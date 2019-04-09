@@ -6,8 +6,7 @@ read_time: false
 comments: false
 share: false
 author_profile: false
-sidebar:
-    nav: docs
+toc: true
 ---
 # Publications
 [](#UCSD)
