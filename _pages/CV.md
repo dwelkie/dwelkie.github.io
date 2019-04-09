@@ -13,8 +13,7 @@ This pub list can also be viewed on <a href="https://scholar.google.com/citation
 
 ## Review Articles
 * **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
-Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}<br>
-*Check out the blog post on it [here](https://dwelkie.github.io/posts/Trends_Review/){:target="_blank"}
+Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 ## Research Articles
 * Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
@@ -51,7 +50,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 * **Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018
 
-* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" ><i class="far fa-file-pdf"></i>open PDF of schedule.
+* **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" > <i class="far fa-file-pdf"></i> open PDF of schedule.
   
 
 
