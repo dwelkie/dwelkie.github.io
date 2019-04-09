@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "David G. Welkie"
-  avatar           : "/assets/images/dw_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "assets/images/dw-shades350x350.jpg"
+  avatar           : "/assets/images/dw-shades350x350.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
   location         : "San Diego, CA"
   email            : "david.welkie@gmail.com"
   uri              :
