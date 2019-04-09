@@ -1,10 +1,10 @@
 ---
-title: "Research"
+title: "Online Applications"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plates.jpg
   overlay_filter: 0.15
-permalink: /Research/ 
+permalink: /apps/ 
 read_time: false
 comments: false
 share: false
@@ -22,5 +22,7 @@ gallery3:
     alt: "Fog in the trees"
 ---
 
-{% include gallery id="gallery1" caption="Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the PNAS 2016 Welkie et. al paper" %} {% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %} {% include gallery id="gallery3" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery1" caption="Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the PNAS 2016 Welkie et. al paper" %} 
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %} 
+{% include gallery id="gallery3" caption="This is a second gallery example with images hosted externally." %}
 
