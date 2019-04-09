@@ -55,7 +55,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 [caterpillar](https://dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf)
 
-
+<embed src="https://dwelkie.github.io/docs/2016Fallworkshop_schedule.pdf" type="application/pdf" />
 
 * **Welkie DG**, Rubin BE, Golden SS. “Fitness contributions of the cyanobacterial circadian clock on diurnal physiology.” Oral Presentation at the California Center for Algae Biotechnology, University of California, San Diego, CA.	[Web Link](https://algae.ucsd.edu/events/seminar-series.html#2015---2016)
 
