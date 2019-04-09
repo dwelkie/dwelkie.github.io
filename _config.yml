@@ -20,7 +20,7 @@ title                    : "david welkie"
 title_separator          : "-"
 logo: "/assets/images/signature5ca7d91ab6632.png"
 name                     : "david welkie"
-description              : "Molecular biologist"
+description              : ""
 url                      : https://dwelkie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : dwelkie/dwelkie.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "David G. Welkie"
   avatar           : "/assets/images/dw_avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Molecular biologist"
+  bio              : "assets/images/dw-shades350x350.jpg"
   location         : "San Diego, CA"
   email            : "david.welkie@gmail.com"
   uri              :
