@@ -10,7 +10,7 @@ comments: false
 share: false
 gallery1:
   - url: https://dwelkie.github.io
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
+    image_path: /assets/images/plates.jpg
     alt: "Black and grays with a hint of green"
 gallery2:
   - url: https://flic.kr/p/8a738X
