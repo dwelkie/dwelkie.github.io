@@ -26,16 +26,14 @@ main:
         url: /cv/#presentations
   - title: "Other"
     sublinks:
-      - title: Whats new? - blog
-        url: /Blog/
       - title: Online Applications
         url: /apps/
-      - title: Golden Lab
+      - title: Link to Golden Lab
         url: https://goldenucsd.wixsite.com/mysite
-      - title: Systems Biology Research Group
+      - title: Link to SBRG
         url: http://systemsbiology.ucsd.edu/
-      - title: Shiny app for S7942 LD Data
-        url: https://dwelkie.shinyapps.io/S7942_LDC_RbTnSeq_Data_App/
+      - title: Lab Oligos-Benchling
+        url: https://benchling.com/goldenlab/f_/nmJSwamo-golden-lab-general/?sort=modified_at&reverse=1&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED
   - title: "Contact" 
     url: /contact/
     
