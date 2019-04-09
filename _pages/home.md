@@ -10,12 +10,10 @@ header:
   image: /assets/images/ocean-header1.jpg
 
 ---
-**Bio:**
-{: .notice--success}
+## Bio:
+I am a post-doctoral researcher at the Center for Circadian Biology at the University of California in San Diego. I focus on improving our understanding of bacterial metabolism using molecular biology techniques and genome-scale modeling to better enable engineering efforts. I received my PhD from Biological Sciences Department at Purdue University. 
 
-I am a post-doctoral researcher at the Center for Circadian Biology at the University of California in San Diego. I focus on imporving our understanding of bacterial metabolism using molecular biology techniques and genome-scale modeling to better enable engineering efforts. I recieved my PhD from Biological Sciences Department at Purdue university. 
-
-Besides my research, I enjoy running half marathons and going to major leage baseball games whenever I can.
+Besides my research, I enjoy running half marathons and going to major league baseball games whenever I can.
 
 **Recent news:** 
 {: .notice--info}
