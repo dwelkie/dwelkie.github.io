@@ -39,8 +39,8 @@ main:
   - title: "Contact" 
     url: /contact/
     
-# sidebar navigation list sample
-sidebar-sample:
+# documentation links
+docs:
   - title: "Projects"
     children:
       - title: "SMetabolic engineering for chemical production in industrial mircobes"
