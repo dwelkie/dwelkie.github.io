@@ -44,9 +44,9 @@ docs:
   - title: "UCSD Papers"
     children:
       - title: "ME-2918"
-        url: /cv/#UCSD
-      - title: ""
-        url: /
+        url: /cv/#ucsd
+      - title: "Purdue"
+        url: /cv/#purdue
       - title: ""
         url: /
       - title: "IRB-Seq"
