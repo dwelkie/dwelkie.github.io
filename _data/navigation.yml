@@ -41,20 +41,17 @@ main:
     
 # documentation links
 docs:
-  - title: "Projects"
+  - title: "UCSD"
     children:
-      - title: "SMetabolic engineering for chemical production in industrial mircobes"
+      - title: "ME-2918"
+        url: /CV/
+      - title: ""
         url: /
-      - title: "Genome-scale modeling"
-        url: /
-      - title: "Circadian clock influence on metabolism"
+      - title: ""
         url: /
       - title: "IRB-Seq"
         url: /
-      - title: "Cyanobacterial physiology in LD cycles"
-        url: /        
-      - title: "Microbial population dynamics"
-        url: /
+
   - title: "CV"
     children:
       - title: "Publications"
