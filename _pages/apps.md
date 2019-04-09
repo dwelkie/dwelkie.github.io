@@ -11,7 +11,7 @@ share: false
 gallery1:
   - url: https://dwelkie.github.io
     image_path: /assets/images/plates.jpg
-    alt: "Black and grays with a hint of green"
+    alt: "Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the [PNAS 2016 Welkie et. al](https://drive.google.com/file/d/1sFRFf6C-Ya-xFav8DQwkiI93y1_CfRRb) paper"
 gallery2:
   - url: https://flic.kr/p/8a738X
     image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
