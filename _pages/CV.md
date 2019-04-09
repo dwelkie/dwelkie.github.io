@@ -2,11 +2,12 @@
 layout: splash
 title: "CV"
 permalink: /cv/
+sidebar:
+  nav: "docs"
 read_time: false
 comments: false
 share: false
-sidebar:
-  nav: "docs"
+
 ---
 # Publications
 This david list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
