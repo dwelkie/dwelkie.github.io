@@ -2,12 +2,18 @@
 layout: single
 title: "CV"
 permalink: /cv/
-sidebar:
-  nav: "docs"
 read_time: false
 comments: false
 share: false
-
+author_profile: false
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: docs
 ---
 # Publications
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
