@@ -44,7 +44,7 @@ docs:
   - title: "UCSD Papers"
     children:
       - title: "ME-2918"
-        url: /cv/#ucsd
+        url: /projects/#genome-scale-modeling
       - title: "Purdue"
         url: /cv/#purdue
       - title: ""
