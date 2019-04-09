@@ -12,12 +12,12 @@ toc_label: "Quick scroll"
 ---
 # Publications
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
-
-## Review Articles
+## UCSD
+### Review Articles
 * **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
 Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-## Research Articles
+### Research Articles
 * Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30439494){:target="_blank"} , [DOI](https://doi.org/10.1016/j.ymben.2018.11.001){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1jJub7N5iiOAv4gPGpZ0kkDLXqO2AWwvn" target="_blank" ><i class="far fa-file-pdf"></i>open PDF  
 
@@ -29,7 +29,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target
 
 * Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-[](#PURDUE)
+## Purdue
 * **Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target="_blank"}, [DOI](https://doi.org/10.1128/JB.00830-15){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1QE9B8kivtV29aVOk0OXDP0jNN2_bJV_Q" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
@@ -39,6 +39,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25547186){:target
 * **Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24142038){:target="_blank"}, [DOI](https://doi.org/10.1007/s11120-013-9941-z){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1JCrYEhuD9F8kURterbRSE07OF3k3k4--" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
+## UW-Madison
 * Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/21883795){:target="_blank"}, [DOI](https://doi.org/10.1111/j.1462-2920.2011.02546.x){:target="_blank"}
 
@@ -49,13 +50,11 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 {: .notice--success}
 
 # Presentations
-## Conferance Presentations
 
+## UCSD
 * **Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018
 
 * **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1R3JrzimevyJGb9Kvu1WXwrYaV34nAP62" target="_blank" > <i class="far fa-file-pdf"></i> open PDF of schedule.
-  
-
 
 * **Welkie DG**, Rubin BE, Golden SS. “Fitness contributions of the cyanobacterial circadian clock on diurnal physiology.” Oral Presentation at the California Center for Algae Biotechnology, University of California, San Diego, CA.	[Web Link](https://algae.ucsd.edu/events/seminar-series.html#2015---2016)
 
@@ -65,6 +64,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 * **Welkie DG**, Rubin BE, Golden SS. “Deletion of the circadian clock protein KaiA in Synechococcus elongatus PCC 7942 results in impaired diurnal growth” Poster, 12th Workshop on Cyanobacteria Arizona State University, Tempe, AZ.	2016
 
+## Purdue
 * **Welkie DG** and Sherman L. “Modifying carbon storage in cyanobacteria: from glycogen to starch” Oral presentation at the 9th European Workshop on the Molecular Biology of Cyanobacteria, Texel, The Netherlands.	2014
 
 * **Welkie DG**, and Sherman L. “The impact of media adjustments on growth and analysis of carbohydrate storage granules in the diazotrophic cyanobacterium Cyanothece sp. PCC 7822” Oral presentation at the 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO.	2013
