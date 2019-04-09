@@ -28,8 +28,8 @@ main:
     sublinks:
       - title: Whats new? - blog
         url: /Blog/
-      - title: Center for Circadian Biology
-        url: /#the-header
+      - title: Online Applications
+        url: /apps/
       - title: Golden Lab
         url: https://goldenucsd.wixsite.com/mysite
       - title: Systems Biology Research Group
