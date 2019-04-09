@@ -53,7 +53,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 * **Welkie DG**, Rubin BE, Golden SS. “Role of the cyanobacterial clock during day/night cycles.” Oral Presentation at the Center for Circadian Biology Fall Workshop on Biological Timing, University of California, San Diego, CA. November 10, 2016 [Web Link](https://ccb.ucsd.edu/activities-and-events/past-events/fall-workshop%202016.html) or 
 
-![caterpillar](/docs/2016Fallworkshop_schedule.pdf)
+[caterpillar](https://dwelkiegithub.io/docs/2016Fallworkshop_schedule.pdf)
 
 
 
