@@ -41,10 +41,10 @@ main:
     
 # documentation links
 docs:
-  - title: "UCSD"
+  - title: "UCSD Papers"
     children:
       - title: "ME-2918"
-        url: /CV/
+        url: /cv/#UCSD
       - title: ""
         url: /
       - title: ""
