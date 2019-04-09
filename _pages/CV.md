@@ -10,8 +10,8 @@ toc: true
 toc_sticky: true
 toc_label: "Quick scroll"
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
+  - title: "DG Welkie"
+    image: "assets/images/dw-shades350x350.jpg"
     image_alt: "image"
 ---
 # Publications
