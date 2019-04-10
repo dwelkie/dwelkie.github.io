@@ -10,6 +10,11 @@ toc_sticky: true
 toc_label: "Quick scroll"
 
 ---
+# Education
+* Ph.D., Molecular Biology, Department of Biological Sciences, Purdue University, 2015.
+  * An Integrated Approach to Develop Unicellular Cyanobacteria for Biofuel Production. 
+* B.S.,   Microbiology, Department of Bacteriology, University of Wisconsin-Madison, 2009
+___
 # Publications
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 ## UCSD
@@ -40,7 +45,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19615457){:target
 
 If you have trouble accessing nay of the above linked files, [contact me](/Contact).
 {: .notice--success}
-
+___
 # Presentations
 
 ## UCSD
@@ -72,7 +77,7 @@ If you have trouble accessing nay of the above linked files, [contact me](/Conta
 
 If you would like more info of a talk or poster, [contact me!](/Contact).
 {: .notice--success}
-
+___
 # Review Services
 ## Reviewer for Jounral Manuscripts
 I have acted as a peer reviewer to the following journals:
