@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Title of Your Post
 permalink: /
 read_time: false
 comments: false
