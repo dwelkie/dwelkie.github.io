@@ -24,3 +24,4 @@ Beyond research, I enjoy running half marathons and going to major league baseba
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+Click here to [go see all news items](/Blog/){: .btn .btn--primary}
