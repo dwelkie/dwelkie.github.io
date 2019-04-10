@@ -82,11 +82,11 @@ If you would like more info of a talk or poster, [contact me!](/Contact).
 {: .notice--success}
 
 # Review Services
-### Reviewer for Jounral Manuscripts
+## Reviewer for Jounral Manuscripts
 I have acted as a peer reviewer to the following journals:
 * [PLOS One](https://journals.plos.org/plosone/)
 * [Biotechnology for Biofuels](https://biotechnologyforbiofuels.biomedcentral.com/)
 
-### Reviewer for External Research Grants
+## Reviewer for External Research Grants
 I have acted as an external reviewer for the Research Grants Council (RGC) of Hong Kong 2019 – Proposal titled “Elucidating the evolution and functions of cyanophage phosphate acquisition proteins”.
 
