@@ -17,7 +17,7 @@ gallery2:
     image_path: /assets/images/Binder-ME-iJB792-1136px.jpg
     alt: "Binder for 13BD"
 gallery3:
-  - url: https://mybinder.org/v2/gh/dwelkie/iJB792-Py2.7-2018-ME/master
+  - url: https://benchling.com/goldenlab/f/nmJSwamo-golden-lab-general/seq-41f6pWY7-syn7942-genome-cp000100/edit
     image_path: /assets/images/AMOsBenchling-1136.jpg
     alt: "Lab Oligos on Benchling"
 ---
