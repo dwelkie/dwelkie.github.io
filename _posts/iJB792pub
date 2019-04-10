@@ -1,0 +1,31 @@
+---
+title: "(*01/15/17*) Update to S7942 genome scale model - iJB792!
+adapted to different light regimes"
+classes: wide
+tags: [publications]
+category: posts
+excerpt: "Manuscript detailing new work on our GEM for S.elongatus published in PNAS describing its simulation of high and low light as well as 14BD produciton"
+search: true    
+---
+### Predicting the metabolic capabilities of Synechococcus elongatus PCC 7942 adapted to different light regimes <br> 
+There is great interest in engineering photoautotrophic metabolism to generate bioproducts of societal importance. Despite the success in employing genome-scale modeling coupled with flux balance analysis to engineer heterotrophic metabolism, the lack of proper constraints necessary to generate biologically realistic predictions has hindered broad application of this methodology to phototrophic metabolism. 
+
+We worked to contribute to fixing this problem and published a paper that describes a methodology for constraining genome-scale models of photoautotrophy in the cyanobacterium Synechococcus elongatus PCC 7942. 
+
+We included: 
+1. By adding experimental photophysiology parameters coupled to genome-scale flux balance analysis, we were able to generate accurate predictions of growth rates and metabolic reaction fluxes at both low and high light conditions. 
+2. We constrained photon uptake fluxes to that which we measured experimentally and characterized the metabolic cost of excess excitation energy. 
+3. And we used the model to characterize existing photoautotrophic and photomixtotrophic engineering strategies for 2,3-butanediol production in S. elongatus and compared the results with that by Kanno, M., Atsumi, S., 2016. Engineering an obligate photoautotrophic cyanobacterium to utilize glycerol for growth and chemical production. ACS Synth. Biol. 6 (1), 69–75. https://doi.org/10.1021/acssynbio.6b00239.
+
+These experimentally accessible constraints enable phototrophic genome-scale engineering equivalent to classical heterotrophic in silico design. Additionally, by incorporating photophysiology constraints with engineering design, we were able to assess an existing photomixotrophic engineering strategy and revealed the current design was light limited. 
+
+>Broddrick JT, Welkie DG, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of Synechococcus elongatus PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56. <br/>
+
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30439494){:target="_blank"}{: .btn .btn--success}
+
+Click here to see [PDF of paper](https://drive.google.com/open?id=1jJub7N5iiOAv4gPGpZ0kkDLXqO2AWwvn){: .btn .btn--success}{:target="_blank"}<br/>
+
+Click here to     [go see other news items](/Blog/){: .btn .btn--primary} or [here to go back](/){: .btn .btn--primary}
+
+
+
