@@ -1,5 +1,5 @@
 ---
-title: "(*06/10*) Mentions of the LD paper on a blog"
+title: "(*06/10/18*) Mentions of the LD paper on a blog"
 classes: wide
 tags: [publications]
 category: posts
