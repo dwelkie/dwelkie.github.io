@@ -1,6 +1,6 @@
 # main links /cv/
 main:
-  - title: "Projects"
+  - title: "Projects Overview"
     sublinks:
       - title: Engineering Industrial Cyanobacterial Strains
         url: /projects/
@@ -20,17 +20,19 @@ main:
         url: /cv/#publications   
   - title: "CV"
     sublinks:
-      - title: Publications
+      - title: Education
         url: /cv/
+      - title: Publications
+        url: /cv/#publications
       - title: Presentations
         url: /cv/#presentations
   - title: "Other"
     sublinks:
-      - title: Online Tools
+      - title: My online apps
         url: /apps/
-      - title: Link to Golden Lab
+      - title: External link to Golden Lab
         url: https://goldenucsd.wixsite.com/mysite
-      - title: Link to SBRG
+      - title: External link to SBRG
         url: http://systemsbiology.ucsd.edu/
       - title: Lab Oligos-Benchling
         url: https://benchling.com/goldenlab/f_/nmJSwamo-golden-lab-general/?sort=modified_at&reverse=1&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED
