@@ -14,36 +14,36 @@ toc_label: "Quick scroll"
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 ## UCSD
 ### Review Articles
-* **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
+1. **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
 Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 ### Research Articles
-* Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
+2. Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30439494){:target="_blank"} , [DOI](https://doi.org/10.1016/j.ymben.2018.11.001){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1jJub7N5iiOAv4gPGpZ0kkDLXqO2AWwvn" target="_blank" ><i class="far fa-file-pdf"></i>open PDF  
 
-* **Welkie DG**, Rubin BE, Chang Y, Smith S, LiWang A, Golden S. Genome-wide fitness assessment during diurnal growth reveals an expanded role of the cyanobacterial circadian clock protein KaiA. Proceedings of the National Academy of Sciences. 2018 July  115;30:E7174-E7183.<br/> 
+3. **Welkie DG**, Rubin BE, Chang Y, Smith S, LiWang A, Golden S. Genome-wide fitness assessment during diurnal growth reveals an expanded role of the cyanobacterial circadian clock protein KaiA. Proceedings of the National Academy of Sciences. 2018 July  115;30:E7174-E7183.<br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29991601){:target="_blank"} , [DOI](https://doi.org/10.1073/pnas.1802940115){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1sFRFf6C-Ya-xFav8DQwkiI93y1_CfRRb" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-* Rubin BE, Huynh TN, **Welkie DG**, Diamond S, Simkovsky R, Pierce EC, et al. High-throughput interaction screens illuminate the role of c-di-AMP in cyanobacterial nighttime survival. PLoS Genetics. 2018 Apr 14;4:e1007301 <br/>
+4. Rubin BE, Huynh TN, **Welkie DG**, Diamond S, Simkovsky R, Pierce EC, et al. High-throughput interaction screens illuminate the role of c-di-AMP in cyanobacterial nighttime survival. PLoS Genetics. 2018 Apr 14;4:e1007301 <br/>
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target="_blank"}, [DOI](https://doi.org/10.1371/journal.pgen.1007301){:target="_blank"}, or:<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1YF5qtAZzlKsyA7ic3LZSWBq-Pe6_eSSJ" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-* Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+5. Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 ## Purdue
-* **Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
+6. **Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target="_blank"}, [DOI](https://doi.org/10.1128/JB.00830-15){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1QE9B8kivtV29aVOk0OXDP0jNN2_bJV_Q" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-* **Welkie D**, Zhang X, Markillie ML, Taylor R, Orr G, Jacobs J, Bhide K, Thimmapuram J, Gritsenko M, Mitchell H, Smith RD, Sherman LA. Transcriptomic and proteomic dynamics in the metabolism of a diazotrophic cyanobacterium, *Cyanothece* sp. PCC 7822 during a diurnal light-dark cycle. BMC Genomics 2014 Dec 15:1185.8 <br/> 
+7. **Welkie D**, Zhang X, Markillie ML, Taylor R, Orr G, Jacobs J, Bhide K, Thimmapuram J, Gritsenko M, Mitchell H, Smith RD, Sherman LA. Transcriptomic and proteomic dynamics in the metabolism of a diazotrophic cyanobacterium, *Cyanothece* sp. PCC 7822 during a diurnal light-dark cycle. BMC Genomics 2014 Dec 15:1185.8 <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25547186){:target="_blank"},[DOI](https://doi.org/10.1186/1471-2164-15-1185){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1wFPTqduSg5XnYQjx3QbliGQbiuaZBXMS" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-* **Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/> 
+8. **Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24142038){:target="_blank"}, [DOI](https://doi.org/10.1007/s11120-013-9941-z){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1JCrYEhuD9F8kURterbRSE07OF3k3k4--" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 ## UW-Madison
-* Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
+9. Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/21883795){:target="_blank"}, [DOI](https://doi.org/10.1111/j.1462-2920.2011.02546.x){:target="_blank"}
 
-* **Welkie DG**, Stevenson DM, Weimer PJ. ARISA analysis of ruminal bacterial community dynamics in lactating dairy cows during the feeding cycle. Anaerobe 2010 Apr 16;2:94-100.<br/> 
+10. **Welkie DG**, Stevenson DM, Weimer PJ. ARISA analysis of ruminal bacterial community dynamics in lactating dairy cows during the feeding cycle. Anaerobe 2010 Apr 16;2:94-100.<br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19615457){:target="_blank"}, [DOI](https://doi.org/10.1016/j.anaerobe.2009.07.002){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1O2HOMnKQQlWFKZp70Bf4AbKbfepDarwP" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 If you have trouble accessing nay of the above linked files, [contact me](/Contact).
