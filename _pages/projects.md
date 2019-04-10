@@ -7,6 +7,8 @@ header:
   overlay_filter: 0.15
 toc: true
 toc_sticky: true
+author_profile: false
+
 ---
 
 ## UC San Diego
