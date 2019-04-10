@@ -20,7 +20,7 @@ Beyond research, I enjoy running half marathons and going to major league baseba
 {: .notice--info}
 
 <div class="grid__wrapper">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:8 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
