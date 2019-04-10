@@ -31,7 +31,7 @@ To identify the genetic contributors to fitness under light-dark cycles and acqu
 
 These efforts along with those of some great colleagues led to the production of a review article that served as a summary of recent knowledge dealing with cyanobacteria and their lifestyle in light-dark cycling conditions.
 >**Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
-Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}
   
 ### Genetic Fitness and Interaction Screens
 
