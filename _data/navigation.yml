@@ -2,7 +2,7 @@
 main:
   - title: "Projects"
     sublinks:
-      - title: Engineering Industrial Strains for Diacid Production
+      - title: Engineering Industrial Cyanobacterial Strains
         url: /projects/
       - title: Genome-Scale Modeling
         url: /projects/#genome-scale-modeling        
@@ -12,7 +12,7 @@ main:
         url: /projects/#publications  
       - title: Modifying Carbohydrate Metabolism
         url: /projects/#publications        
-      - title: Photosynthetic Isoprene Biosynthesis
+      - title: Photosynthetic Isoprene Synthesis
         url: /projects/#publications
       - title: Gene Expression in Light-Dark Cycles
         url: /cv/#publications          
@@ -26,7 +26,7 @@ main:
         url: /cv/#presentations
   - title: "Other"
     sublinks:
-      - title: Online Applications
+      - title: Online Tools
         url: /apps/
       - title: Link to Golden Lab
         url: https://goldenucsd.wixsite.com/mysite
@@ -34,7 +34,7 @@ main:
         url: http://systemsbiology.ucsd.edu/
       - title: Lab Oligos-Benchling
         url: https://benchling.com/goldenlab/f_/nmJSwamo-golden-lab-general/?sort=modified_at&reverse=1&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED
-  - title: "Contact" 
+  - title: "Contact Me" 
     url: /contact/
     
 # documentation links
