@@ -1,5 +1,5 @@
 ---
-title: "(*12/05*) A Hard Days Night"
+title: "(*12/05/18*) A Hard Days Night - review in Trends in Micro out!"
 classes: wide
 tags: [publications]
 category: posts
@@ -23,7 +23,7 @@ feature_row:
 ---
 A long awaited review article is finally finished and live online today! This was a truly collaborative effort between myself, [Ben Rubin](https://scholar.google.com/citations?user=1PlyBgEAAAAJ&hl=en){:target="_blank"}, [Spencer Diamond](https://scholar.google.com/citations?hl=en&user=MFzs4eQAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}, [Rachel Hood](https://www.linkedin.com/in/rachel-hood-phd-7437b181/){:target="_blank"}, [David Savage](http://www.savagelab.org/){:target="_blank"}, and [Susan Golden](https://biology.ucsd.edu/research/faculty/sgolden){:target="_blank"}.
 
-This effort was really started by Spencer who was a postdoc in the Golden lab when I arrived and Ben and I took it on and saw it through with the help of the rest of the gang. 
+This effort was really started by Spencer Diamond as a postdoc in the Golden lab. When I arrived, Ben Rubin and I took it on and saw it through with the help of the rest of the gang. 
 
 Its a culmination of recents  disoveries, with Ben's RB-TnSeq library allowing us to determine not only essential genes in Synechococcus but also what genes contribute to fitness in light-dark cycles, Spencers work illucidating the role of the clock in carbon partitioning in light-dark cycles and the importance of transcription factors in regulating impotant night-time metabolic activities, and Rachel and Ben's work on signaling nucleotides like cyclic-di-AMP and ppGpp. With these revealations, a paradigm shift in our thinking about cyanobacterial life in the dark.
 
