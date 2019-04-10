@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Welkie-home
+title: 
 permalink: /
 read_time: false
 comments: false
