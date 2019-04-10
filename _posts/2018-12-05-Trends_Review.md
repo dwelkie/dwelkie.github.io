@@ -6,13 +6,6 @@ category: posts
 excerpt: "A review of how cyanobacteria live and respond to light-dark cycles written by a awesome collaborative team"
 search: true
 feature_row:
-  - image_path: /assets/images/TIMIVideoIcon.jpg
-    alt: "F360"
-    title: "ROS and Light-Dark Cycles"
-    excerpt: "Animated Figure360 Video"
-    url: "/TIMIFigure360/"
-    btn_class: "btn--info"
-    btn_label: "See animated figure"
   - image_path: /assets/images/SynHist.jpg
     alt: "Syn7942 History"
     title: "Biography of Syn. 7942"
