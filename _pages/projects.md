@@ -17,36 +17,54 @@ author_profile: false
 
 ### Genome-Scale Modeling
 
-<br/> 
-Links to article: Pubmed{:target="_blank"} 
+>Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30439494){:target="_blank"} , [DOI](https://doi.org/10.1016/j.ymben.2018.11.001){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1jJub7N5iiOAv4gPGpZ0kkDLXqO2AWwvn" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
-<br/> 
-Links to article: Pubmed{:target="_blank"}
+>Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
+>**Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1Tjz-dU8d6TEGqH61Dzez6PnUo0GYBqW-" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
+  
 ### KaiA and Circadian Clock Regulation
 
 For my postdoctoral career contributions, I want to focus on studying the relationship between the circadian clock in the model cyanobacterium Synechococcus elongatus sp. PCC 7942 and the regulation of metabolic processes, especially those important for diurnal growth.
 
+>**Welkie DG**, Rubin BE, Chang Y, Smith S, LiWang A, Golden S. Genome-wide fitness assessment during diurnal growth reveals an expanded role of the cyanobacterial circadian clock protein KaiA. Proceedings of the National Academy of Sciences. 2018 July  115;30:E7174-E7183.<br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29991601){:target="_blank"} , [DOI](https://doi.org/10.1073/pnas.1802940115){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1sFRFf6C-Ya-xFav8DQwkiI93y1_CfRRb" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+  
+>**Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology. 2018 December In Press *Corrected Proof* <br/>
+Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+  
 ### Genetic Fitness and Interaction Screens
 
+>Rubin BE, Huynh TN, **Welkie DG**, Diamond S, Simkovsky R, Pierce EC, et al. High-throughput interaction screens illuminate the role of c-di-AMP in cyanobacterial nighttime survival. PLoS Genetics. 2018 Apr 14;4:e1007301 <br/>
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target="_blank"}, [DOI](https://doi.org/10.1371/journal.pgen.1007301){:target="_blank"}, or:<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1YF5qtAZzlKsyA7ic3LZSWBq-Pe6_eSSJ" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+  
 ## Purdue
 
 ### Modifying Carbohydrate Storage and Strain Physiology
 
- My graduate career contributions focused on genetics and physiology of cyanobacteria for industrial applications. My dissertation titles “An integrated approach to develop unicellular cyanobacteria for biofuel production” described how to improve the physiological characteristics of the nitrogen fixing cyanobacterium Cyanothece sp. PC 7822, where I enhanced growth and culture population homogeneity was through nutrient adjustment. <br/> 
-Links to article: Pubmed{:target="_blank"}
+My graduate career contributions focused on genetics and physiology of cyanobacteria for industrial applications. My dissertation titles “An integrated approach to develop unicellular cyanobacteria for biofuel production” described how to improve the physiological characteristics of the nitrogen fixing cyanobacterium Cyanothece sp. PC 7822, where I enhanced growth and culture population homogeneity was through nutrient adjustment. 
 
-I created mutant strains of Synechocystis sp. PCC 6803 that had modified carbohydrate metabolism to study the genetic rationale for the variation of stored carbohydrate granule morphologies across species.<br/> 
-Links to article: Pubmed{:target="_blank"}
+>**Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24142038){:target="_blank"}, [DOI](https://doi.org/10.1007/s11120-013-9941-z){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1JCrYEhuD9F8kURterbRSE07OF3k3k4--" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+  
+>**Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target="_blank"}, [DOI](https://doi.org/10.1128/JB.00830-15){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1QE9B8kivtV29aVOk0OXDP0jNN2_bJV_Q" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+
 
 ### Photosynthetic Isoprene Biosynthesis
 
 Lastly, participated in a project to engineer Synechocystis to produce the C5 compound, isoprene, and validated computational model predictions to optimize productivity.
 
+>**Welkie DG**, Saha R, Zhang X, Maranas CD, and Sherman LA. “Optimizing isoprene production in Synechocystis 6803 utilizing computational modeling and transcriptional regulation”. Poster 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO. 2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1-zaVjOPzuPZxNSSGlnsWKzLhuLacNZ-0" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
+  
 ### Gene Expression in Light-Dark Cycles
 
-I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes. <br/> 
-Links to article: Pubmed{:target="_blank"}
+I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes.
+
+>**Welkie D**, Zhang X, Markillie ML, Taylor R, Orr G, Jacobs J, Bhide K, Thimmapuram J, Gritsenko M, Mitchell H, Smith RD, Sherman LA. Transcriptomic and proteomic dynamics in the metabolism of a diazotrophic cyanobacterium, *Cyanothece* sp. PCC 7822 during a diurnal light-dark cycle. BMC Genomics 2014 Dec 15:1185.8 <br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25547186){:target="_blank"},[DOI](https://doi.org/10.1186/1471-2164-15-1185){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1wFPTqduSg5XnYQjx3QbliGQbiuaZBXMS" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+
 
 ## UW-Madison
 
@@ -58,14 +76,9 @@ Links to article: Pubmed{:target="_blank"}
 The result of this project was a first authored paper that was the first to report how solid-associated microbial communities show less change in composition within and across feeding cycles than liquid-associated bacteria using automated ribosomal intergenic spacer analysis. I next focused on microbial communities in fresh water lakes working under the supervision of Dr. Katherine McMahon and Dr. Ashley Shade on a Northern Temperate Lakes Microbial Observatory Project. 
 
 This project set out to separate the environmental drivers of microbial communities in freshwater ecosystems in response to seasonal and abrupt disturbances. This project, too, resulted in a co-authored manuscript. My role in both these projects was to collect the samples from the field, perform DNA extractions and assist with data analysis and manuscript writing. <br/> 
-Links to article: Pubmed{:target="_blank"}
 
+>Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/21883795){:target="_blank"}, [DOI](https://doi.org/10.1111/j.1462-2920.2011.02546.x){:target="_blank"}
 
-
-
-
-
-
-
-
-
+>**Welkie DG**, Stevenson DM, Weimer PJ. ARISA analysis of ruminal bacterial community dynamics in lactating dairy cows during the feeding cycle. Anaerobe 2010 Apr 16;2:94-100.<br/> 
+Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19615457){:target="_blank"}, [DOI](https://doi.org/10.1016/j.anaerobe.2009.07.002){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1O2HOMnKQQlWFKZp70Bf4AbKbfepDarwP" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
