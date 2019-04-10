@@ -13,7 +13,7 @@ If you need to log in and don't have an account use
 username: goldenlabtesteracct
 password: Cyano7942!
 
-Click here to see the app page with a [link](/Apps/#lab-oligos-on-benchling){: .btn .btn--success}{:target="_blank"}<br/>
+Click here to see the app page with a [link](/apps/#lab-oligos-on-benchling){: .btn .btn--success}{:target="_blank"}<br/>
 
 Click here to     [go see other news items](/Blog/){: .btn .btn--primary} or [here to go back](/){: .btn .btn--primary}
 
