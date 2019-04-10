@@ -18,7 +18,7 @@ gallery2:
     alt: "Binder for 13BD"
 gallery3:
   - url: https://benchling.com/goldenlab/f/nmJSwamo-golden-lab-general/seq-41f6pWY7-syn7942-genome-cp000100/edit
-    image_path: /assets/images/AMOsBenchling-1136.jpg
+    image_path: /assets/images/AMOsBenchling-1136px.jpg
     alt: "Lab Oligos on Benchling"
 ---
 # Shiny App for LD RB-TnSeq Dataset
