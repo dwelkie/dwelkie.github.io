@@ -14,7 +14,7 @@ toc_label: "Quick scroll"
 * Ph.D., Molecular Biology, Department of Biological Sciences, Purdue University, 2015.
   * An Integrated Approach to Develop Unicellular Cyanobacteria for Biofuel Production. 
 * B.S.,   Microbiology, Department of Bacteriology, University of Wisconsin-Madison, 2009
-___
+<bk/>
 # Publications
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 ## UCSD
@@ -30,6 +30,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29991601){:target
 4. Rubin BE, Huynh TN, **Welkie DG**, Diamond S, Simkovsky R, Pierce EC, et al. High-throughput interaction screens illuminate the role of c-di-AMP in cyanobacterial nighttime survival. PLoS Genetics. 2018 Apr 14;4:e1007301 <br/>
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target="_blank"}, [DOI](https://doi.org/10.1371/journal.pgen.1007301){:target="_blank"}, or:<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1YF5qtAZzlKsyA7ic3LZSWBq-Pe6_eSSJ" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 5.   Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+
 ## Purdue
 6.   **Welkie DG**, Lee BH, Sherman LA. Altering the structure of carbohydrate storage granules in the cyanobacterium *Synechocystis* sp. strain PCC 6803 through branching-enzyme truncations. Journal of Bacteriology 2015 Dec 198:701-710. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target="_blank"}, [DOI](https://doi.org/10.1128/JB.00830-15){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1QE9B8kivtV29aVOk0OXDP0jNN2_bJV_Q" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
@@ -37,6 +38,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25547186){:target="_blank"},[DOI](https://doi.org/10.1186/1471-2164-15-1185){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1wFPTqduSg5XnYQjx3QbliGQbiuaZBXMS" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 8.   **Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/24142038){:target="_blank"}, [DOI](https://doi.org/10.1007/s11120-013-9941-z){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1JCrYEhuD9F8kURterbRSE07OF3k3k4--" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
+
 ## UW-Madison
 9. Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/21883795){:target="_blank"}, [DOI](https://doi.org/10.1111/j.1462-2920.2011.02546.x){:target="_blank"}
@@ -45,7 +47,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19615457){:target
 
 If you have trouble accessing nay of the above linked files, [contact me](/Contact).
 {: .notice--success}
-___
+
 # Presentations
 
 ## UCSD
@@ -77,7 +79,7 @@ ___
 
 If you would like more info of a talk or poster, [contact me!](/Contact).
 {: .notice--success}
-___
+
 # Review Services
 ## Reviewer for Jounral Manuscripts
 I have acted as a peer reviewer to the following journals:
