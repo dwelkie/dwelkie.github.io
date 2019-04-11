@@ -81,7 +81,7 @@ If you would like more info of a talk or poster, [contact me!](/Contact).
 {: .notice--success}
 
 # Review Services
-## Reviewer for Jounral Manuscripts
+## Reviewer for Journal Manuscripts
 I have acted as a peer reviewer to the following journals:
 * PLOS One [homepage](https://journals.plos.org/plosone/)
 * Biotechnology for Biofuels [homepage](https://biotechnologyforbiofuels.biomedcentral.com/)
