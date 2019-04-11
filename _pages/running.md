@@ -13,6 +13,7 @@ header:
 ---
 ## Running
 
-![lpods](assets/images/lpods_photo.png)
+![lpods](/assets/images/bio-photo-2.jpg)
 ![image-left](/assets/images/LD-Screen-Exp.jpg){: .align-center}{:height="50%" width="50%"}
 ![image-left](/assets/images/LD-Screen-Exp.jpg)
+![image-left](/assets/images/lpods_photo.png)
