@@ -13,7 +13,8 @@ author_profile: false
 
 # UC San Diego
 
-## Engineering Industrial Strains for Diacid Production
+## Engineering Industrial Strains of Cyanobacterial and Algae
+This project is currently on going...
 
 ## Genome-Scale Modeling
 
@@ -62,7 +63,8 @@ Lastly, participated in a project to engineer Synechocystis to produce the C5 co
   
 ## Gene Expression in Light-Dark Cycles
 
-I also performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes.
+Towards the goal of developing cyanobacteria for biofuel production, the strain _Cyanothece_ sp PCC7822 was of interest as it was a large unicellular cyanobacterium capable of growing photoautotrophically as well as mixotrophically and it could fix atmospheric nitrogen. Other _Cyanothece_ species shared many of these attributes but PCC7822 was unique in that it had been the only strain at the time to allow genetic manipulation. As the genetics were being further worked on we set out to determine the genome-wide expression profile over a timecourse in natural light conditions which the strain would be grown in industrially and performed transcriptomics and proteomics across the diurnal cycle that detailed the synchronicity of transcriptional and translational processes.
+One result was the finding that while mRNA transcript changes can be dramatic over time, specific protein abundances may be more steady. I also detailed the profiles of genes that could be utilized for butanol biosynthesis. 
 
 >**Welkie D**, Zhang X, Markillie ML, Taylor R, Orr G, Jacobs J, Bhide K, Thimmapuram J, Gritsenko M, Mitchell H, Smith RD, Sherman LA. Transcriptomic and proteomic dynamics in the metabolism of a diazotrophic cyanobacterium, *Cyanothece* sp. PCC 7822 during a diurnal light-dark cycle. BMC Genomics 2014 Dec 15:1185.8 <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25547186){:target="_blank"},[DOI](https://doi.org/10.1186/1471-2164-15-1185){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1wFPTqduSg5XnYQjx3QbliGQbiuaZBXMS" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
@@ -81,11 +83,3 @@ This project set out to separate the environmental drivers of microbial communit
 
 >Shade A, Read JS, **Welkie DG**, Kratz TK, Wu CH, McMahon KD. Resistance, resilience and recovery: Aquatic bacterial dynamics after water column disturbance. Environmental Microbiology 2011 Oct 13;10:2752-2767. <br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/21883795){:target="_blank"}
-
-
-
-
-
-
-
-
