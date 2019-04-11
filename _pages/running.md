@@ -29,6 +29,6 @@ gallery:
 ## Races
 test test
 
-{% include gallery caption="This is a sample gallery." %}
+{% include gallery layout="third" %}
 
 test test
