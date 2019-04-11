@@ -14,3 +14,5 @@ header:
 ## Running
 
 ![lpods](assets/images/lpods_photo.png)
+![image-left](/assets/images/LD-Screen-Exp.jpg){: .align-center}{:height="50%" width="50%"}
+![image-left](/assets/images/LD-Screen-Exp.jpg)
