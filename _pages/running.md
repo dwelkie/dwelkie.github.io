@@ -22,10 +22,10 @@ test test
 test test
 
 <figure class="third">
+	<img src="/assets/images/favicon-96x96.png" width="128">
 	<img src="/assets/images/favicon-96x96.png">
-	<img src="/assets/images/favicon-96x96.png">
-	<img src="/assets/images/favicon-96x96.png">
+	<img src="/assets/images/favicon-96x96.png" width="128">
   <img src="/assets/images/favicon-96x96.png">
-  <img src="/assets/images/favicon-96x96.png">
+  <img src="/assets/images/favicon-96x96.png" width="128">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
