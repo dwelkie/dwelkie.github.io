@@ -10,7 +10,7 @@ toc_sticky: true
 author_profile: false
 
 ---
-
+I am currently updating this page, please disregard any typos you come across! 
 # UC San Diego
 
 ## Engineering Industrial Cyanobacteria & Algae
