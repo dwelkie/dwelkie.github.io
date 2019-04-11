@@ -13,20 +13,19 @@ author_profile: false
 
 # UC San Diego
 
-## Engineering Industrial Strains of Cyanobacterial and Algae
+## Engineering Industrial Cyanobacteria & Algae
 This project is currently on going...
 
 ## Genome-Scale Modeling
-
+>**Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1Tjz-dU8d6TEGqH61Dzez6PnUo0GYBqW-" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
+  
 >Broddrick JT, **Welkie DG**, Jallet D, Golden SS, Peers G, Palsson BO. Predicting the metabolic capabilities of *Synechococcus elongatus* PCC 7942 adapted to different light regimes. Metabolic Engineering. 2018 Nov 13;52:42-56.<br/> 
 Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30439494){:target="_blank"} , [DOI](https://doi.org/10.1016/j.ymben.2018.11.001){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1jJub7N5iiOAv4gPGpZ0kkDLXqO2AWwvn" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 >Broddrick JT¹ , Rubin BE¹, **Welkie DG**¹ , Du D, Mih N, Diamond S, Lee JJ, Golden SS, Palsson BO. Unique attributes of cyanobacterial metabolism revealed by improved genome-scale metabolic modeling and essential gene analysis. Proceedings of the National Academy of Sciences. 2016. Dec 113;51:E8344-E8353. ¹co-1st authorship <br/>  Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27911809){:target="_blank"}, [DOI](https://doi.org/10.1073/pnas.1613446113){:target="_blank"}, or<a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1g8nSXTIxjOnFs6LV8sU_zyxZlm0jNWZj" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
-
->**Welkie DG**, Golden SS, Palsson BO. "Creating a predictive metabolic model of photoautotrophic metabolism in cyanobacteria to improve bioengineering design." Poster Presentation at the UC San Diego Chancellor’s Research Excellence Annual Symposium. University of California, San Diego, CA. October 25, 2018 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1Tjz-dU8d6TEGqH61Dzez6PnUo0GYBqW-" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
   
 ## KaiA and Circadian Clock Regulation
-This project has been huge and rewarding. If my graduate work taught me anything it was that understanding the fitness of KO strains was critical and we as a community were basically in the dark about what genes were important for growth of phototrophic bacteria in light-dark cycles. The combination of massive mutant library screens with targeted molecular biology experiemtns proved a fruitful was to study the relationship between the circadian clock in the model cyanobacterium _Synechococcus elongatus_ sp. PCC 7942 and the regulation of metabolic processes, especially those important for diurnal growth.
+The combination of massive mutant library screens with targeted molecular biology experimentss proved fruitful to study the relationship between the circadian clock in the model cyanobacterium _Synechococcus elongatus_ sp. PCC 7942 and the regulation of metabolic processes, especially those important for diurnal growth.
 To identify the genetic contributors to fitness under light-dark cycles and acquire a more comprehensive picture of the regulatory network, we used an unbiased population-based screen that tracks the fitness contributions of individual _S. elongatus_ genes to reproduction in diel cycles. The method, random bar-code transposon-site sequencing (RB-TnSeq), quantitatively compares the changes in abundances of individuals in a pooled mutant population over time. This assay allowed the calculation of a fitness contribution to LD cycle survival for each nonessential gene in the genome by leveraging multiple inactivating mutations spread across a genomic locus. 
 >**Welkie DG**, Rubin BE, Chang Y, Smith S, LiWang A, Golden S. Genome-wide fitness assessment during diurnal growth reveals an expanded role of the cyanobacterial circadian clock protein KaiA. Proceedings of the National Academy of Sciences. 2018 July  115;30:E7174-E7183.<br/> Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29991601){:target="_blank"} 
 
