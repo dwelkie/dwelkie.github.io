@@ -57,7 +57,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26668264){:target
 
 ## Photosynthetic Isoprene Biosynthesis
 
-Lastly, participated in a project to engineer Synechocystis to produce the C5 compound, isoprene, and validated computational model predictions to optimize productivity.
+This project's goal was to i) produce isoprene photosynthetically in a cyanobacterium, and ii) optimize this production using genome-scale flux balance analysis. I engineered _Synechocystis_ sp PCC6803 to produce the C5 compound, isoprene, by expressing a heterologous protein encoding isoprene synthase codon optimized from _Poplar_ and measured production using gas chromatography. I also tested computational model predictions to optimize productivity and found that the genetic targets were essential. KO's that were able to be generated were not segregated (had a mix of genomes with and without mutations) and gave only modest yeild increases. 
 
 >**Welkie DG**, Saha R, Zhang X, Maranas CD, and Sherman LA. “Optimizing isoprene production in Synechocystis 6803 utilizing computational modeling and transcriptional regulation”. Poster 11th Workshop on Cyanobacteria. Washington University, St. Louis, MO. 2013 <a class="btn btn-success btn-lg" href="https://drive.google.com/open?id=1-zaVjOPzuPZxNSSGlnsWKzLhuLacNZ-0" target="_blank" > <i class="far fa-file-pdf"></i> view poster.
   
