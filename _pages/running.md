@@ -7,7 +7,7 @@ comments: false
 share: false
 classes: wide
 author_profile: false
-gallery1:
+gallery:
   - url: /assets/images/dw_avatar.jpg
     image_path: /assets/images/dw_avatar.jpg
     alt: "placeholder image 1"
@@ -29,6 +29,6 @@ gallery1:
 ## Races
 test test
 
-{% include gallery1 caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 test test
