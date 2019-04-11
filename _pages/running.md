@@ -13,7 +13,7 @@ author_profile: false
 test test
 
 <figure class="third">
-	<img src="/assets/images/favicon-96x96.png">
+	<img src="/assets/images/favicon-96x96.png" class="img-rounded">
 	<img src="/assets/images/favicon-96x96.png">
 	<img src="/assets/images/favicon-96x96.png">
 	<figcaption>Caption describing these three images.</figcaption>
