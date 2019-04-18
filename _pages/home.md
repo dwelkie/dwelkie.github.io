@@ -14,7 +14,7 @@ header:
 ## About:
 As post-doctoral researcher at the Center for Circadian Biology at the University of California in San Diego. I received a PhD from Biological Sciences Department at Purdue University and a BS in microbiology at the University of Wisconsin-Madison.
 
-I also like to [run](/running/) and try go to major league baseball games whenever I can (go padres!).
+I also like to run and try go to major league baseball games whenever I can (go padres!).
 
 **Recent news:**
 {: .notice--info}
