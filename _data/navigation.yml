@@ -43,16 +43,24 @@ main:
 docs:
   - title: "UC San Diego"
     children:
-      - title: "Engineering Industrial Cyanobacteria & Algae"
-        url: https://dwelkie.github.io/projects/#engineering-industrial-cyanobacteria-&-algae
+      - title: "Engineering Industrial Cyanobacteria"
+        url: https://dwelkie.github.io/projects/#engineering-industrial-cyanobacteria
       - title: "Genome-Scale Modeling"
         url: https://dwelkie.github.io/projects/#genome-scale-modeling
       - title: "Genetic Fitness and Interaction Screens"
         url: https://dwelkie.github.io/projects/#genetic-fitness-and-interaction-screens
   - title: "Purdue"
     children:
-      - title: "Modifying Carbohydrate Storage and Strain Physiology"
-        url: https://dwelkie.github.io/projects/#modifying-carbohydrate-storage-and-strain-physiology
+      - title: "Modifying Carbohydrate Storage"
+        url: https://dwelkie.github.io/projects/#modifying-carbohydrate-storage
+      - title: "Photosynthetic Isoprene Biosynthesis"
+        url: https://dwelkie.github.io/projects/#photosynthetic-isoprene-biosynthesis
+      - title: "Gene Expression in Light-Dark Cycles"
+        url: https://dwelkie.github.io/projects/#gene-expression-in-light-dark-cycles
+title: "UW-Madison"
+  children:
+    - title: "Microbial Community Dynamics to Environmental Disturbance"
+      url: https://dwelkie.github.io/projects/#microbial-community-dynamics-to-environmental-disturbance
 
 # TITLE/URL EXAMPLE
   # - title: "About"

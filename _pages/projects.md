@@ -16,7 +16,7 @@ sidebar:
 I am currently updating this page, please disregard any typos you come across!
 # UC San Diego
 
-## Engineering Industrial Cyanobacteria & Algae
+## Engineering Industrial Cyanobacteria
 This project is currently on going...
 
 ## Genome-Scale Modeling
@@ -43,7 +43,7 @@ Links to article: [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29608558){:target
 
 # Purdue
 
-## Modifying Carbohydrate Storage and Strain Physiology
+## Modifying Carbohydrate Storage
 The unicellular diazotrophic cyanobacteria of the genus _Cyanothece_ demonstrate oscillations in nitrogenase activity and H2 production when grown under 12h light-12h dark cycles. We established that _Cyanothece_ sp. PCC 7822 allows for the construction of knock-out mutants and our objective was to improve the growth characteristics of this strain and to identify the nature of the intracellular storage granules. I developed a series of BG-11-derived growth media and monitored batch culture growth, nitrogenase activity and nitrogenase- mediated hydrogen production, culture synchronicity, and intracellular storage content. We found that a reduction in NaNO3 and K2HPO4 concentrations suprisingly improved growth characteristics such as cell size and uniformity, and enhanced the rate of cell division. Cells grown in this reduced BG-11 had less stored polyphosphate, fewer polyhydroxybutyrate granules, and many smaller unknown granules. Biochemical analysis and transmission electron microscopy using the histocytochemical PATO technique revealed that these small granules contained glycogen which was distinct from the carbohydrate stored by its closely related cousin PCC51142.
 
 >**Welkie DG**, Sherman DM, Chrisler WB, Orr G, Sherman LA. Analysis of carbohydrate storage granules in the diazotrophic cyanobacterium *Cyanothece* sp PCC 7822. Photosynthesis Research 2013 Nov 118(1-2):25-36. <br/>
