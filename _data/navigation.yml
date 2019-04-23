@@ -57,10 +57,10 @@ docs:
         url: https://dwelkie.github.io/projects/#photosynthetic-isoprene-biosynthesis
       - title: "Gene Expression in Light-Dark Cycles"
         url: https://dwelkie.github.io/projects/#gene-expression-in-light-dark-cycles
-title: "UW-Madison"
-  children:
-    - title: "Microbial Community Dynamics to Environmental Disturbance"
-      url: https://dwelkie.github.io/projects/#microbial-community-dynamics-to-environmental-disturbance
+  - title: "UW-Madison"
+    children:
+      - title: "Microbial Community Dynamics to Environmental Disturbance"
+        url: https://dwelkie.github.io/projects/#microbial-community-dynamics-to-environmental-disturbance
 
 # TITLE/URL EXAMPLE
   # - title: "About"
