@@ -43,9 +43,16 @@ main:
 docs:
   - title: "UC San Diego"
     children:
-      - title: "David Industrial Cyanobacteria & Algae"
-        url: https://dwelkie.github.io/projects/#kaia-and-circadian-clock-regulation
-
+      - title: "Engineering Industrial Cyanobacteria & Algae"
+        url: https://dwelkie.github.io/projects/#engineering-industrial-cyanobacteria-&-algae
+      - title: "Genome-Scale Modeling"
+        url: https://dwelkie.github.io/projects/#genome-scale-modeling
+      - title: "Genetic Fitness and Interaction Screens"
+        url: https://dwelkie.github.io/projects/#genetic-fitness-and-interaction-screens
+  - title: "Purdue"
+    children:
+      - title: "Modifying Carbohydrate Storage and Strain Physiology"
+        url: https://dwelkie.github.io/projects/#modifying-carbohydrate-storage-and-strain-physiology
 
 # TITLE/URL EXAMPLE
   # - title: "About"
