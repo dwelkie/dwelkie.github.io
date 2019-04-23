@@ -97,7 +97,7 @@ analytics:
   google:
     tracking_id          : "UA-132333828-1"
     anonymize_ip         : false # true, false (default)
-
+    google-site-verification: google1e2ad72e6fe8a7ca.html
 
 # Site Author
 author:
