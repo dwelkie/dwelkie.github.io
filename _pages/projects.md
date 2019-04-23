@@ -8,6 +8,8 @@ header:
 toc: true
 toc_sticky: true
 author_profile: false
+sidebar:
+  nav: "docs"
 
 ---
 I am currently updating this page, please disregard any typos you come across!

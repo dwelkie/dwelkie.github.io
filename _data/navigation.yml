@@ -5,19 +5,19 @@ main:
       - title: Engineering Industrial Cyanobacterial Strains
         url: /projects/
       - title: Genome-Scale Modeling
-        url: /projects/#genome-scale-modeling        
+        url: /projects/#genome-scale-modeling
       - title: KaiA and Circadian Clock Regulation
         url: /projects/#kaia-and-circadian-clock-regulation
       - title: Genetic Fitness and Interaction Screens
-        url: /projects/#publications  
+        url: /projects/#publications
       - title: Modifying Carbohydrate Metabolism
-        url: /projects/#publications        
+        url: /projects/#publications
       - title: Photosynthetic Isoprene Synthesis
         url: /projects/#publications
       - title: Gene Expression in Light-Dark Cycles
-        url: /cv/#publications          
+        url: /cv/#publications
       - title: Microbial Community Dynamics to Environmental Disturbance
-        url: /cv/#publications   
+        url: /cv/#publications
   - title: "CV"
     sublinks:
       - title: Education
@@ -36,49 +36,17 @@ main:
         url: http://systemsbiology.ucsd.edu/
       - title: Lab Oligos-Benchling
         url: https://benchling.com/goldenlab/f_/nmJSwamo-golden-lab-general/?sort=modified_at&reverse=1&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED
-  - title: "Contact Me" 
+  - title: "Contact Me"
     url: /contact/
-    
+
 # documentation links
 docs:
-  - title: "UCSD Papers"
+  - title: "UC San Diego"
     children:
-      - title: "ME-2918"
-        url: /projects/#genome-scale-modeling
-      - title: "Purdue"
-        url: /cv/https://dwelkie.github.io/cv/#purdue
-      - title: ""
-        url: /
-      - title: "IRB-Seq"
-        url: /
+      - title: "Engineering Industrial Cyanobacteria & Algae"
+        url: /projects/## Engineering Industrial Cyanobacteria & Algae
+    
 
-  - title: "CV"
-    children:
-      - title: "Publications"
-        url: /
-      - title: "Presentations"
-        url: /
-      - title: "Education"
-  - title: "Other"
-    children:
-      - title: "Shiny App"
-        url: /
-      - title: "Binder Deployments"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
-
-        
 # TITLE/URL EXAMPLE
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
