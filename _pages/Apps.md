@@ -2,9 +2,9 @@
 title: "Online apps I've made"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/plates.jpg
+  overlay_image: /assets/images/ocean-header1.jpg
   overlay_filter: 0.15
-permalink: /apps/ 
+permalink: /apps/
 read_time: false
 comments: false
 share: false
@@ -22,9 +22,8 @@ gallery3:
     alt: "Lab Oligos on Benchling"
 ---
 # Shiny App for LD RB-TnSeq Dataset
-{% include gallery id="gallery1" caption="Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the PNAS 2016 Welkie et. al paper" %} 
+{% include gallery id="gallery1" caption="Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the PNAS 2016 Welkie et. al paper" %}
 # Binder for ME 2018 Broddrick et. al
-{% include gallery id="gallery2" caption="A Binder containing notebooks to re-run all the analysis of the genome-scale modeling performed in the paper ME 2018 Broddrick et. al simulating high and low light biomass accumulation as well as 13BD biosynthesis in Synechococcus PCC7942." %} 
+{% include gallery id="gallery2" caption="A Binder containing notebooks to re-run all the analysis of the genome-scale modeling performed in the paper ME 2018 Broddrick et. al simulating high and low light biomass accumulation as well as 13BD biosynthesis in Synechococcus PCC7942." %}
 # Lab Oligos on Benchling
-{% include gallery id="gallery3" caption="Lab Oligos on Benchling; if needed use username: goldenlabtester and password: Cyano7942!" %} 
-
+{% include gallery id="gallery3" caption="Lab Oligos on Benchling; if needed use username: goldenlabtester and password: Cyano7942!" %}
