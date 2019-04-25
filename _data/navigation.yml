@@ -43,10 +43,9 @@ main:
 docs:
   - title: "UC San Diego"
     children:
-      - title: "Engineering Industrial Cyanobacteria"
+      - title: "Engineering Industrial Cyanobacteria
+      "
         url: https://dwelkie.github.io/projects/#engineering-industrial-cyanobacteria
-      - title: " "
-        url: https://dwelkie.github.io/projects/#genome-scale-modeling
       - title: "Genome-Scale Modeling"
         url: https://dwelkie.github.io/projects/#genome-scale-modeling
       - title: "KaiA and Circadian Clock Regulation"
