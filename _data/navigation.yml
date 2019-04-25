@@ -41,7 +41,7 @@ main:
 
 # documentation links
 docs:
-  - title: "UC San Diego"
+  - title: "UC David San Diego"
     children:
       - title: "Engineering Industrial Cyanobacteria"
         url: https://dwelkie.github.io/projects/#engineering-industrial-cyanobacteria
