@@ -43,26 +43,25 @@ main:
 docs:
   - title: "UC San Diego"
     children:
-      - title: "Engineering Industrial Microbes
-      "
+      - title: "1. Engineering Industrial Microbes"
         url: https://dwelkie.github.io/projects/#engineering-industrial-microorganisms
-      - title: "Genome-Scale Modeling"
+      - title: "2. Genome-Scale Modeling"
         url: https://dwelkie.github.io/projects/#genome-scale-modeling
-      - title: "KaiA and Circadian Clock Regulation"
-        url: https://dwelkie.github.io/projects/#kaiA-and-circadian-clock-regulation
-      - title: "Genetic Fitness and Interaction Screens"
+      - title: "3. KaiA and Circadian Clock Regulation"
+        url: https://dwelkie.github.io/projects/#kaia-and-circadian-clock-regulation
+      - title: "4. Genetic Fitness and Interaction Screens"
         url: https://dwelkie.github.io/projects/#genetic-fitness-and-interaction-screens
   - title: "Purdue"
     children:
-      - title: "Modifying Carbohydrate Storage"
+      - title: "1. Modifying Carbohydrate Storage"
         url: https://dwelkie.github.io/projects/#modifying-carbohydrate-storage
-      - title: "Photosynthetic Isoprene Biosynthesis"
+      - title: "2. Photosynthetic Isoprene Biosynthesis"
         url: https://dwelkie.github.io/projects/#photosynthetic-isoprene-biosynthesis
-      - title: "Gene Expression in Light-Dark Cycles"
+      - title: "3. Gene Expression in Light-Dark Cycles"
         url: https://dwelkie.github.io/projects/#gene-expression-in-light-dark-cycles
   - title: "UW-Madison"
     children:
-      - title: "Microbial Community Dynamics to Environmental Disturbance"
+      - title: "1. Microbial Community Dynamics to Environmental Disturbance"
         url: https://dwelkie.github.io/projects/#microbial-community-dynamics-to-environmental-disturbance
 
 # TITLE/URL EXAMPLE
