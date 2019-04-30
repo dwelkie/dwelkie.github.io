@@ -1,6 +1,6 @@
 # main links /cv/
 main:
-  - title: "Projects Overview"
+  - title: "Projects"
     sublinks:
       - title: Engineering Industrial Cyanobacterial Strains
         url: /projects/
