@@ -19,7 +19,7 @@ toc_label: "Quick scroll"
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 ## UCSD
 ### Review Articles
-1.   **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology, Volume 27, Issue 3, March 2019, Pages 231-242 <br/>
+1.   **Welkie DG**, Rubin BE, Diamond S, Hood RD, Savage DF, Golden SS. A hard day’s night: Cyanobacteria in diel cycles. Trends in Microbiology 2019 (March) 27:3 231-242 <br/>
 Links to article: [DOI](https://doi.org/10.1016/j.tim.2018.11.002){:target="_blank"}, [Alternate](https://www.sciencedirect.com/science/article/pii/S0966842X1830252X){:target="_blank"}, or <a class="btn btn-success btn-lg" href="https://drive.google.com/file/d/1HwKxuuA43H0-wZkprE2fg8e0o29LBgb0/view?usp=sharing" target="_blank" ><i class="far fa-file-pdf"></i>open PDF
 
 ### Research Articles
