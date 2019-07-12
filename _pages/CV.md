@@ -87,4 +87,4 @@ I have acted as a peer reviewer to the following journals:
 * Biotechnology for Biofuels [homepage](https://biotechnologyforbiofuels.biomedcentral.com/)
 
 ## Reviewer for External Research Grants
-I have acted as an external reviewer for the Research Grants Council (RGC) of Hong Kong 2019 – Proposal titled “Elucidating the evolution and functions of cyanophage phosphate acquisition proteins”. [link to RGC of Hong Kong webpage](https://www.ugc.edu.hk/eng/rgc/index.html)
+I have acted as an external reviewer for the Research Grants Council (RGC) of Hong Kong 2019 [link to RGC of Hong Kong webpage](https://www.ugc.edu.hk/eng/rgc/index.html)
