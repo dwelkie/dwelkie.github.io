@@ -12,7 +12,7 @@ header:
 
 ---
 ## About:
-I'm a post-doctoral researcher at the Center for Circadian Biology at the University of California in San Diego.
+I'm a post-doctoral researcher at the Center for Circadian Biology at the University of California in San Diego. Go Padres
 
 **Recent news:**
 {: .notice--info}
