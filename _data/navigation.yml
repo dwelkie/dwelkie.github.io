@@ -36,6 +36,8 @@ main:
         url: http://systemsbiology.ucsd.edu/
       - title: Lab Oligos-Benchling
         url: https://benchling.com/goldenlab/f_/nmJSwamo-golden-lab-general/?sort=modified_at&reverse=1&section=inventory&filter=archivePurposes%3ANOT_ARCHIVED
+      - title: Personal photos
+        url: https://davidwelkiea99f.myportfolio.com/
   - title: "Contact Me"
     url: /contact/
 
