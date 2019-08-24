@@ -11,6 +11,11 @@ toc_label: "Quick scroll"
 
 ---
 # Education
+
+[photos](file:///private/var/folders/q4/yp3m0vy157n6scn_g36gy31h0000gn/T/AgWPGExport-5/index.html)
+
+
+
 * Ph.D., Molecular Biology, Department of Biological Sciences, Purdue University, 2015.
   * An Integrated Approach to Develop Unicellular Cyanobacteria for Biofuel Production.
 * B.S.,   Microbiology, Department of Bacteriology, University of Wisconsin-Madison, 2009
