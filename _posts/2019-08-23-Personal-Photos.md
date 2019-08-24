@@ -1,5 +1,5 @@
 ---
-title: "Post: Gallery"
+title: "Started to omve photos to online gallery"
 author_profile: false
 classes: wide
 gallery:
