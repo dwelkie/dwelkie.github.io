@@ -20,7 +20,7 @@ gallery3:
   - url: https://benchling.com/goldenlab/f/nmJSwamo-golden-lab-general/seq-41f6pWY7-syn7942-genome-cp000100/edit
     image_path: /assets/images/AMOsBenchling-1136px.jpg
     alt: "Lab Oligos on Benchling"
-gallery3:
+gallery4:
   - url: http://ccb.ucsd.edu/_files/bioclock/projects-2019/Entrainment-Simulator.html
     image_path: /assets/images/Entrainment_Simulator.jpg
     alt: "Entrainment Simulator"
