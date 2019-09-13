@@ -28,7 +28,7 @@ main:
         url: /cv/#presentations
   - title: "Other"
     sublinks:
-      - title: My online apps
+      - title: My online apps and tools
         url: /apps/
       - title: External link to Golden Lab
         url: https://goldenucsd.wixsite.com/mysite

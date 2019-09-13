@@ -20,7 +20,13 @@ gallery3:
   - url: https://benchling.com/goldenlab/f/nmJSwamo-golden-lab-general/seq-41f6pWY7-syn7942-genome-cp000100/edit
     image_path: /assets/images/AMOsBenchling-1136px.jpg
     alt: "Lab Oligos on Benchling"
+gallery3:
+  - url: http://ccb.ucsd.edu/_files/bioclock/projects-2019/Entrainment-Simulator.html
+    image_path: /assets/images/Entrainment_Simulator.jpg
+    alt: "Entrainment Simulator"
 ---
+# Entrainment Simulator for Circadian Biology Course at UCSD
+{% include gallery id="gallery4" caption="This online app gives students a kind of 'Entrainment Simulator' that lets them interactively explore basic concepts of circadian entrainment, phase response curves, and phase shifts." %}
 # Shiny App for LD RB-TnSeq Dataset
 {% include gallery id="gallery1" caption="Shiny app to explore the RB-TnSeq 12:12 light-dark cycling experiment described in the PNAS 2016 Welkie et. al paper" %}
 # Binder for ME 2018 Broddrick et. al
