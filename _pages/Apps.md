@@ -1,5 +1,5 @@
 ---
-title: "Online apps I've made"
+title: "Online apps and tools I've made or been apart of making"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ocean-header1.jpg
