@@ -15,6 +15,12 @@ toc_label: "Quick scroll"
   * An Integrated Approach to Develop Unicellular Cyanobacteria for Biofuel Production.
 * B.S.,   Microbiology, Department of Bacteriology, University of Wisconsin-Madison, 2009
 <bk/>
+# Additional Training
+*	Leadership, Teamwork, and Project Management Certificate, University of California San Diego, 2018.
+*	Micro-M.B.A., University of California San Diego Extension, 2018. Condensed first year M.B.A program.
+*	Transition to Industry Workshop, Torrey Pines Training Consortium, 2018.
+*	The Datascientist’s Toolbox, R Programming, and Intermediate R Programming on Coursera, 2017
+<bk/>
 # Publications
 This pub list can also be viewed on <a href="https://scholar.google.com/citations?user=a_M2Gc4AAAAJ&hl=en={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="tab.open(this.href, 'tab); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Open tab for' }} Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Schlar Profile</span></a>
 ## UCSD
