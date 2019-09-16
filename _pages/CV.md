@@ -10,12 +10,12 @@ toc_sticky: true
 toc_label: "Quick scroll"
 
 ---
-# Education 
+# Education
 * Ph.D., Molecular Biology, Department of Biological Sciences, Purdue University, 2015.
   * An Integrated Approach to Develop Unicellular Cyanobacteria for Biofuel Production.
 * B.S.,   Microbiology, Department of Bacteriology, University of Wisconsin-Madison, 2009
 <bk/>
-# Additional Training
+## Additional Training
 *	Leadership, Teamwork, and Project Management Certificate, University of California San Diego, 2018.
 *	Micro-M.B.A., University of California San Diego Extension, 2018. Condensed first year M.B.A program.
 *	Transition to Industry Workshop, Torrey Pines Training Consortium, 2018.
