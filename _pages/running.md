@@ -32,7 +32,7 @@ The start & finish at is on Moonlight Beach in Encinitas and we run an out and b
 **Post-race**
 Felt great. I didn't over do it since I had no training and I have my sights on some real races in the beginning of the year I want to be healthy and train for. This start that phase!
 <figure class="half">
-    <a href="/assets/images/Surfingmadonna-2.png"><img src="/assets/images/Surfingmadonna-3.png"></a>
+    <a href="/assets/images/Surfingmadonna-2.png"><img src="/assets/images/Surfingmadonna-2.png"></a>
     <a href="/assets/images/Surfingmadonna-3.png"><img src="/assets/images/Surfingmadonna-3.png"></a>
     <figcaption>Whoa!.</figcaption>
 </figure>
