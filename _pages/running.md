@@ -25,6 +25,11 @@ Hadn't run since getting Randy and frankly, since some personal family troubles 
 **Splits:**
 ![Surfing Madonna 2019](assets/images/Surfingmadonna-1.png)
 
+$
+
+<img src="{{ dwelkie.github.io }}/assets/images/Surfingmadonna-1.png" alt="">
+
+
 **Training**
 None!
 **Pre-race**
