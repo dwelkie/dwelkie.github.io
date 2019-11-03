@@ -10,9 +10,28 @@ author_profile: false
 
 ---
 ## October
-* Hadn't run since getting Randy and frankly, since some personal family troubles earlier in the summer. Rough patches can come in may forms and sometimes things can collide to create a pretty nsaty storm. Yet, I survived and we're all better off now, stronger, and weathered.
-* The Surfing Madonna 10K Beach Run
 
-<iframe height='405' width='1100' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/2819536647/embed/8c30b1639ef15eddaf09478c094074bc59c04705'></iframe>
+Hadn't run since getting Randy and frankly, since some personal family troubles earlier in the summer. Rough patches can come in may forms and sometimes things can collide to create a pretty nsaty storm. Yet, I survived and we're all better off now, stronger, and weathered.
 
-<iframe src='https://connect.garmin.com/modern/activity/embed/4194898819' title='Encinitas Running' width='465' height='500' frameborder='0'></iframe>
+**The Surfing Madonna 10K Beach Run**
+
+**Date:** October 26, 2019
+**Distance:** 6.21 miles
+**Location:** Encinitas, CA
+**Website:** https://surfingmadonnarun.org/
+**Strava:** https://www.strava.com/activities/2819536647
+**Time:** 1:22:54
+**Goals:** Just wanted to finish - success!
+**Splits:**
+![Surfing Madonna 2019](assets/images/Surfingmadonna-1.png)
+
+**Training**
+None!
+**Pre-race**
+Placeholder text!
+
+**Race**
+start & finish at Moonlight Beach. The entire course runs alongside crashing surf and steep cliffs on the hard-packed sand during low tide. There will be turnaround flags on the beach for your distance as well as fuel stations at almost every mile
+
+**Post-race**
+Placeholder text!
