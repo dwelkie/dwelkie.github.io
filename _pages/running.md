@@ -11,7 +11,7 @@ author_profile: false
 ---
 ## October
 
-Hadn't run since getting Randy and frankly, since some personal family troubles earlier in the summer. Rough patches can come in may forms and sometimes things can collide to create a pretty nsaty storm. Yet, I survived and we're all better off now, stronger, and weathered.
+Hadn't run in a while, busy summer. Start things off on the right foot with a 10K of course! 
 
 **The Surfing Madonna 10K Beach Run**
 **Date:** October 26, 2019
