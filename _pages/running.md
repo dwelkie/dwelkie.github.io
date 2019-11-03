@@ -9,23 +9,8 @@ classes: wide
 author_profile: false
 
 ---
-## Races
-test test
+## October
+* Hadn't run since getting Randy and frankly, since some personal family troubles earlier in the summer. Rough patches can come in may forms and sometimes things can collide to create a pretty nsaty storm. Yet, I survived and we're all better off now, stronger, and weathered.
+* The Surfing Madonna 10K Beach Run
 
-![image-left](/assets/images/favicon-96x96.png){: .align-center}{:height="50%" width="50%"}
-
-![image-left](/assets/images/favicon-96x96.png){: .align-center}{:height="30%" width="30%"}
-
-![image-left](/assets/images/favicon-96x96.png){: .align-center}{:height="10%" width="10%"}
-
-
-test david
-
-<figure class="third">
-	<img src="/assets/images/favicon-96x96.png" width="128">
-	<img src="/assets/images/favicon-96x96.png">
-	<img src="/assets/images/favicon-96x96.png" width="128">
-  <img src="/assets/images/favicon-96x96.png">
-  <img src="/assets/images/favicon-96x96.png" width="128">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2819536647/embed/8c30b1639ef15eddaf09478c094074bc59c04705'></iframe>
