@@ -14,3 +14,5 @@ author_profile: false
 * The Surfing Madonna 10K Beach Run
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2819536647/embed/8c30b1639ef15eddaf09478c094074bc59c04705'></iframe>
+
+<iframe src='https://connect.garmin.com/modern/activity/embed/4194898819' title='Encinitas Running' width='465' height='500' frameborder='0'></iframe>
