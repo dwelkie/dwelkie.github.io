@@ -21,9 +21,9 @@ Hadn't run in a while, busy summer. Start things off on the right foot with a 10
 
 **Location:** Encinitas, CA
 
-**Website:** https://surfingmadonnarun.org/
+**Website:** https://surfingmadonnarun.org/(https://surfingmadonnarun.org/)
 
-**Strava:** https://www.strava.com/activities/2819536647
+**Strava:** https://www.strava.com/activities/2819536647(https://www.strava.com/activities/2819536647)
 
 **Time:** 1:22:54
 
