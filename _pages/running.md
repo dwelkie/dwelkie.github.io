@@ -9,7 +9,7 @@ classes: wide
 author_profile: false
 
 ---
-## October
+# October
 
 Hadn't run in a while, busy summer. Start things off on the right foot with a 10K of course!
 
